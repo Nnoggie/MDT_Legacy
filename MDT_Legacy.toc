@@ -4,6 +4,8 @@
 ## Version: 1.0.0
 ## Notes: MDT Plugin cotaining dungeons from previous expansions
 ## Dependencies: MythicDungeonTools
+## X-Curse-Project-ID: 1115573
+## X-Wago-ID: mKOv1k6x
 
 locale.lua
 versionCheck.lua
