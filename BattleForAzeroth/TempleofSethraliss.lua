@@ -2,6 +2,11 @@ local MDT = MDT
 local L = MDT.L
 local dungeonIndex = 20
 MDT.dungeonList[dungeonIndex] = L["Temple of Sethraliss"]
+MDT.mapInfo[dungeonIndex] = {
+  teleportId = 0, -- no teleport
+  iconId = 2011143,
+  shortName = L["templeOfSethralisShortName"]
+};
 
 local zones = { 1038, 1043 }
 for _, zone in ipairs(zones) do

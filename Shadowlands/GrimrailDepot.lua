@@ -14,7 +14,9 @@ MDT.mapInfo[dungeonIndex] = {
       horizontalPan = 8.0440521252548e-07,
       verticalPan = 69.777157123272,
     },
-  }
+  },
+  teleportId = 159900,
+  shortName = L["grimrailDepotShortName"]
 };
 
 local zones = { 606, 607, 608, 609 }

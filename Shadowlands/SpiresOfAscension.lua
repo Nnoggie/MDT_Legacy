@@ -20,7 +20,9 @@ MDT.mapInfo[dungeonIndex] = {
       horizontalPan = 213.62455400331,
       verticalPan = 261.78908025446,
     },
-  }
+  },
+  teleportId = 354466,
+  shortName = L["spiresOfAscensionShortName"]
 };
 
 local zones = { 1692, 1693, 1694, 1695 }

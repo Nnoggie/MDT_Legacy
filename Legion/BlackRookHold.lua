@@ -7,6 +7,10 @@ local MDT = MDT
 local L = MDT.L
 local dungeonIndex = 1
 MDT.dungeonList[dungeonIndex] = L["Black Rook Hold"]
+MDT.mapInfo[dungeonIndex] = {
+  teleportId = 424153,
+  shortName = L["blackrookHoldShortName"]
+};
 
 MDT.dungeonMaps[dungeonIndex] = {
   [0] = "BlackRookHoldDungeon",

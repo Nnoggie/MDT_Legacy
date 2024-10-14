@@ -11,6 +11,8 @@ MDT.mapInfo[dungeonIndex] = {
       verticalPan = 46.130299439931,
     },
   },
+  teleportId = 410074,
+  shortName = L["underrotShortName"]
 };
 
 local zones = { 1041, 1042 }

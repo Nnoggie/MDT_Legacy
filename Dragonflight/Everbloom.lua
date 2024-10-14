@@ -10,7 +10,9 @@ MDT.mapInfo[dungeonIndex] = {
       horizontalPan = 304.20210274759,
       verticalPan = 88.878914962537,
     },
-  }
+  },
+  teleportId = 159901,
+  shortName = L["everbloomShortName"]
 };
 
 local zones = { 620, 621 }

@@ -41,6 +41,9 @@ MDT.mapInfo[dungeonIndex] = {
       verticalPan = 86.184873724839,
     },
   },
+  teleportId = 0, -- no teleport
+  iconId = 2011149,
+  shortName = L["tolDagorShortName"]
 };
 
 local zones = { 974, 975, 976, 977, 978, 979, 980 }

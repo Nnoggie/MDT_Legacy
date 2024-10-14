@@ -3,7 +3,10 @@ local MDT = MDT
 local L = MDT.L
 local dungeonIndex = 42
 MDT.dungeonList[dungeonIndex] = L["RubyLifePools"]
-MDT.mapInfo[dungeonIndex] = {};
+MDT.mapInfo[dungeonIndex] = {
+  teleportId = 393256,
+  shortName = L["rubyLifePoolsShortName"]
+};
 
 local zones = { 2094, 2095 }
 for _, zone in ipairs(zones) do

@@ -2,6 +2,10 @@ local MDT = MDT
 local L = MDT.L
 local dungeonIndex = 8
 MDT.dungeonList[dungeonIndex] = L["Neltharion's Lair"]
+MDT.mapInfo[dungeonIndex] = {
+  teleportId = 410078,
+  shortName = L["neltharionsLairShortName"]
+};
 
 local zones = { 731 }
 for _, zone in ipairs(zones) do

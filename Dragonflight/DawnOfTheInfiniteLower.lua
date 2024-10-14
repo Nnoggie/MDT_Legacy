@@ -4,7 +4,8 @@ local L = MDT.L
 local dungeonIndex = 100
 MDT.dungeonList[dungeonIndex] = L["DawnOfTheInfiniteLower"]
 MDT.mapInfo[dungeonIndex] = {
-
+  teleportId = 424197,
+  shortName = L["dawnlowerShortName"]
 };
 
 local zones = { 2190, 2192, 2193, 2198 }

@@ -4,7 +4,10 @@ local L = MDT.L
 
 local dungeonIndex = 51
 MDT.dungeonList[dungeonIndex] = L["Uldaman: Legacy of Tyr"]
-MDT.mapInfo[dungeonIndex] = {};
+MDT.mapInfo[dungeonIndex] = {
+  teleportId = 393222,
+  shortName = L["uldamanShortName"]
+};
 
 local zones = { 2071, 2072 }
 for _, zone in ipairs(zones) do

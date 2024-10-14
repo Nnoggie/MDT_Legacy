@@ -10,7 +10,9 @@ MDT.mapInfo[dungeonIndex] = {
       horizontalPan = 115.34848613406,
       verticalPan = 37.921958997821,
     },
-  }
+  },
+  teleportId = 354463,
+  shortName = L["plaguefallShortName"]
 };
 
 local zones = { 1674, 1697 }

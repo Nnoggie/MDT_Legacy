@@ -11,7 +11,9 @@ MDT.mapInfo[dungeonIndex] = {
       horizontalPan = 67.260832446435,
       verticalPan = 69.727395812053,
     },
-  }
+  },
+  teleportId = 424163,
+  shortName = L["darkheartThicketShortName"]
 };
 
 local zones = { 733 }

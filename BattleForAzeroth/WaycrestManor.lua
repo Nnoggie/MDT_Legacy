@@ -16,6 +16,8 @@ MDT.mapInfo[dungeonIndex] = {
       verticalPan = 126.7632252132,
     },
   },
+  teleportId = 424167,
+  shortName = L["waycrestManorShortName"]
 };
 
 MDT.dungeonMaps[dungeonIndex] = {

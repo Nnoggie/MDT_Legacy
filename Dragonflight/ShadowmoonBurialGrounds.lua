@@ -9,7 +9,9 @@ MDT.mapInfo[dungeonIndex] = {
       horizontalPan = 62.187168291065,
       verticalPan = 128.07692242776,
     },
-  }
+  },
+  teleportId = 159899,
+  shortName = L["shadowmoonShortName"]
 };
 local zones = { 574, 575, 576 }
 -- add zones to MDT.zoneIdToDungeonIdx

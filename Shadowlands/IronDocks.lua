@@ -16,7 +16,9 @@ MDT.mapInfo[dungeonIndex] = {
       horizontalPan = 193.84615203593,
       verticalPan = 39.418697423882,
     },
-  }
+  },
+  teleportId = 159896,
+  shortName = L["ironDocksShortName"]
 };
 
 local zones = { 595 }

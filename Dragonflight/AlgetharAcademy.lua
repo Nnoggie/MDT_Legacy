@@ -3,7 +3,10 @@ local MDT = MDT
 local L = MDT.L
 local dungeonIndex = 45
 MDT.dungeonList[dungeonIndex] = L["AlgetharAcademy"]
-MDT.mapInfo[dungeonIndex] = {};
+MDT.mapInfo[dungeonIndex] = {
+  teleportId = 393273,
+  shortName = L["algetharShortName"]
+}
 
 local zones = { 2097, 2098, 2099 }
 for _, zone in ipairs(zones) do

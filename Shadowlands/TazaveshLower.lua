@@ -14,6 +14,8 @@ MDT.mapInfo[dungeonIndex] = {
       verticalPan = 55.476971331488,
     },
   },
+  teleportId = 367416,
+  shortName = L["tazaveshLowerShortName"]
 };
 
 local zones = { 1989, 1990, 1991, 1992 }

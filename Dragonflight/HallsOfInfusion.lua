@@ -3,7 +3,10 @@ local MDT = MDT
 local L = MDT.L
 local dungeonIndex = 49
 MDT.dungeonList[dungeonIndex] = L["Halls of Infusion"]
-MDT.mapInfo[dungeonIndex] = {};
+MDT.mapInfo[dungeonIndex] = {
+  teleportId = 393283,
+  shortName = L["hallsOfInfusionShortName"]
+};
 
 local zones = { 2082, 2083 }
 for _, zone in ipairs(zones) do

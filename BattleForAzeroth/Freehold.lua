@@ -11,6 +11,8 @@ MDT.mapInfo[dungeonIndex] = {
       verticalPan = 112.92774143478,
     },
   },
+  teleportId = 410071,
+  shortName = L["freeholdShortName"]
 };
 
 local zones = { 936 }

@@ -11,6 +11,9 @@ MDT.mapInfo[dungeonIndex] = {
       verticalPan = 39.046512114573,
     },
   },
+  teleportId = 0, -- no teleport
+  iconId = 2011138,
+  shortName = L["shrineOfTheStormsShortName"]
 };
 
 local zones = { 1039, 1040 }

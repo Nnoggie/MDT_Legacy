@@ -30,7 +30,9 @@ MDT.mapInfo[dungeonIndex] = {
       horizontalPan = 68.068100349919,
       verticalPan = 76.939706850476,
     },
-  }
+  },
+  teleportId = 354467,
+  shortName = L["theaterOfPainShortName"]
 };
 
 local zones = { 1683, 1684, 1685, 1686, 1687 }

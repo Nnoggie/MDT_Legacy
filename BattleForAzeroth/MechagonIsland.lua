@@ -20,6 +20,8 @@ MDT.mapInfo[dungeonIndex] = {
       verticalPan = 253.02009657875,
     },
   },
+  teleportId = 373274,
+  shortName = L["mechagonIslandShortName"]
 };
 
 local zones = { 1490 }

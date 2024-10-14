@@ -2,6 +2,11 @@ local MDT = MDT
 local L = MDT.L
 local dungeonIndex = 21
 MDT.dungeonList[dungeonIndex] = L["The MOTHERLODE!!"]
+MDT.mapInfo[dungeonIndex] = {
+  teleportId = 0, -- no teleport
+  iconId = 2011121,
+  shortName = L["motherlodeShortName"]
+};
 
 local zones = { 1010 }
 for _, zone in ipairs(zones) do

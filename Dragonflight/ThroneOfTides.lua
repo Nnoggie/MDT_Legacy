@@ -4,7 +4,8 @@ local L = MDT.L
 local dungeonIndex = 105
 MDT.dungeonList[dungeonIndex] = L["Throne of Tides"]
 MDT.mapInfo[dungeonIndex] = {
-
+  teleportId = 424142,
+  shortName = L["throneOfTidesShortName"]
 };
 
 local zones = { 322, 323 }

@@ -4,7 +4,9 @@ local dungeonIndex = 47
 MDT.dungeonList[dungeonIndex] = L["TempleOfTheJadeSerpent"]
 MDT.mapInfo[dungeonIndex] = {
   viewportPositionOverrides = {
-  }
+  },
+  teleportId = 131204,
+  shortName = L["templeOfTheJadeSerpentShortName"]
 };
 local zones = { 429, 430 }
 -- add zones to MDT.zoneIdToDungeonIdx
