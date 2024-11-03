@@ -15,7 +15,9 @@ MDT.mapInfo[dungeonIndex] = {
     },
   },
   teleportId = 367416,
-  shortName = L["tazaveshLowerShortName"]
+  shortName = L["tazaveshLowerShortName"],
+  englishName = "Tazavesh: Streets of Wonder",
+  mapID = 391
 };
 
 local zones = { 1989, 1990, 1991, 1992 }

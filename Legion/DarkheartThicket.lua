@@ -13,7 +13,9 @@ MDT.mapInfo[dungeonIndex] = {
     },
   },
   teleportId = 424163,
-  shortName = L["darkheartThicketShortName"]
+  shortName = L["darkheartThicketShortName"],
+  englishName = "Darkheart Thicket",
+  mapID = 198
 };
 
 local zones = { 733 }

@@ -11,7 +11,9 @@ MDT.mapInfo[dungeonIndex] = {
     },
   },
   teleportId = 393766,
-  shortName = L["courtOfStarsShortName"]
+  shortName = L["courtOfStarsShortName"],
+  englishName = "Court of Stars",
+  mapID = 210
 };
 
 local zones = { 761, 762, 763 }

@@ -32,7 +32,9 @@ MDT.mapInfo[dungeonIndex] = {
     },
   },
   teleportId = 354467,
-  shortName = L["theaterOfPainShortName"]
+  shortName = L["theaterOfPainShortName"],
+  englishName = "Theater of Pain",
+  mapID = 382
 };
 
 local zones = { 1683, 1684, 1685, 1686, 1687 }

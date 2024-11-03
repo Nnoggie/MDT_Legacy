@@ -5,7 +5,9 @@ local dungeonIndex = 48
 MDT.dungeonList[dungeonIndex] = L["BrackenhideHollow"]
 MDT.mapInfo[dungeonIndex] = {
   teleportId = 393267,
-  shortName = L["brackenhideShortName"]
+  shortName = L["brackenhideShortName"],
+  englishName = "Brackenhide Hollow",
+  mapID = 405
 };
 
 local zones = { 2096, 2106 }

@@ -5,7 +5,9 @@ local dungeonIndex = 49
 MDT.dungeonList[dungeonIndex] = L["Halls of Infusion"]
 MDT.mapInfo[dungeonIndex] = {
   teleportId = 393283,
-  shortName = L["hallsOfInfusionShortName"]
+  shortName = L["hallsOfInfusionShortName"],
+  englishName = "Halls of Infusion",
+  mapID = 406
 };
 
 local zones = { 2082, 2083 }

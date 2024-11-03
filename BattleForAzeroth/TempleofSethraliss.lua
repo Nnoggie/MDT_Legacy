@@ -5,7 +5,9 @@ MDT.dungeonList[dungeonIndex] = L["Temple of Sethraliss"]
 MDT.mapInfo[dungeonIndex] = {
   teleportId = 0, -- no teleport
   iconId = 2011143,
-  shortName = L["templeOfSethralisShortName"]
+  shortName = L["templeOfSethralisShortName"],
+  englishName = "Temple of Sethraliss",
+  mapID = 250
 };
 
 local zones = { 1038, 1043 }

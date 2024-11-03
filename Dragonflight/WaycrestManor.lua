@@ -5,7 +5,9 @@ local dungeonIndex = 102
 MDT.dungeonList[dungeonIndex] = L["Waycrest Manor"]
 MDT.mapInfo[dungeonIndex] = {
   teleportId = 424167,
-  shortName = L["waycrestManorShortName"]
+  shortName = L["waycrestManorShortName"],
+  englishName = "Waycrest Manor",
+  mapID = 248
 };
 
 local zones = { 1015, 1016, 1017, 1018, 1029 }

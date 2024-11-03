@@ -5,7 +5,9 @@ MDT.dungeonList[dungeonIndex] = L["Cathedral of Eternal Night"]
 MDT.mapInfo[dungeonIndex] = {
   teleportId = 0, -- no teleport
   iconId = 1378283,
-  shortName = L["cathedralOfEternalNightShortName"]
+  shortName = L["cathedralOfEternalNightShortName"],
+  englishName = "Cathedral of Eternal Night",
+  mapID = 233
 };
 
 MDT.dungeonMaps[dungeonIndex] = {

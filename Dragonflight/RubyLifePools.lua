@@ -5,7 +5,9 @@ local dungeonIndex = 42
 MDT.dungeonList[dungeonIndex] = L["RubyLifePools"]
 MDT.mapInfo[dungeonIndex] = {
   teleportId = 393256,
-  shortName = L["rubyLifePoolsShortName"]
+  shortName = L["rubyLifePoolsShortName"],
+  englishName = "Ruby Life Pools",
+  mapID = 399
 };
 
 local zones = { 2094, 2095 }

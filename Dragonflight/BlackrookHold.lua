@@ -5,7 +5,9 @@ local dungeonIndex = 103
 MDT.dungeonList[dungeonIndex] = L["Black Rook Hold"]
 MDT.mapInfo[dungeonIndex] = {
   teleportId = 424153,
-  shortName = L["blackrookHoldShortName"]
+  shortName = L["blackrookHoldShortName"],
+  englishName = "Black Rook Hold",
+  mapID = 199
 }
 
 local zones = { 751, 752, 753, 754, 755, 756 }

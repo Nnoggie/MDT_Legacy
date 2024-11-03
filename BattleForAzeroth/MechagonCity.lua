@@ -22,7 +22,9 @@ MDT.mapInfo[dungeonIndex] = {
     },
   },
   teleportId = 373274,
-  shortName = L["mechagonCityShortName"]
+  shortName = L["mechagonCityShortName"],
+  englishName = "Mechagon - Workshop",
+  mapID = 370
 };
 
 local zones = { 1491, 1493, 1494, 1497 }

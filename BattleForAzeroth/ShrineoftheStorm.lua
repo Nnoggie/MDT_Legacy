@@ -13,7 +13,9 @@ MDT.mapInfo[dungeonIndex] = {
   },
   teleportId = 0, -- no teleport
   iconId = 2011138,
-  shortName = L["shrineOfTheStormsShortName"]
+  shortName = L["shrineOfTheStormsShortName"],
+  englishName = "Shrine of the Storm",
+  mapID = 252
 };
 
 local zones = { 1039, 1040 }

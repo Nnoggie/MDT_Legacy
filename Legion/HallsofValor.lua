@@ -21,7 +21,9 @@ MDT.mapInfo[dungeonIndex] = {
     },
   },
   teleportId = 393764,
-  shortName = L["hallsOfValorShortName"]
+  shortName = L["hallsOfValorShortName"],
+  englishName = "Halls of Valor",
+  mapID = 200
 };
 local zones = { 703, 704, 705 }
 -- add zones to MDT.zoneIdToDungeonIdx

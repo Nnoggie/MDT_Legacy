@@ -30,7 +30,9 @@ MDT.mapInfo[dungeonIndex] = {
     },
   },
   teleportId = 367416,
-  shortName = L["tazaveshUpperShortName"]
+  shortName = L["tazaveshUpperShortName"],
+  englishName = "Tazavesh: So'leah's Gambit",
+  mapID = 392
 };
 
 local zones = { 1993, 1995, 1996 }

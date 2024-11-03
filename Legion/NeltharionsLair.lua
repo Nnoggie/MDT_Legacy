@@ -4,7 +4,9 @@ local dungeonIndex = 8
 MDT.dungeonList[dungeonIndex] = L["Neltharion's Lair"]
 MDT.mapInfo[dungeonIndex] = {
   teleportId = 410078,
-  shortName = L["neltharionsLairShortName"]
+  shortName = L["neltharionsLairShortName"],
+  englishName = "Neltharion's Lair",
+  mapID = 206
 };
 
 local zones = { 731 }

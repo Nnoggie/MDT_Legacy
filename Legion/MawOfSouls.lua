@@ -5,7 +5,9 @@ MDT.dungeonList[dungeonIndex] = L["Maw of Souls"]
 MDT.mapInfo[dungeonIndex] = {
   teleportId = 0, -- no teleport
   iconId = 1417428,
-  shortName = L["mawOfSoulsShortName"]
+  shortName = L["mawOfSoulsShortName"],
+  englishName = "Maw of Souls",
+  mapID = 208
 };
 
 MDT.dungeonMaps[dungeonIndex] = {

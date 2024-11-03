@@ -4,7 +4,9 @@ local dungeonIndex = 33
 MDT.dungeonList[dungeonIndex] = L["Sanguine Depths"]
 MDT.mapInfo[dungeonIndex] = {
   teleportId = 354469,
-  shortName = L["sanguineDepthsShortName"]
+  shortName = L["sanguineDepthsShortName"],
+  englishName = "Sanguine Depths",
+  mapID = 380
 };
 
 

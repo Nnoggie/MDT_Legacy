@@ -5,7 +5,9 @@ MDT.dungeonList[dungeonIndex] = L["Eye of Azshara"]
 MDT.mapInfo[dungeonIndex] = {
   teleportId = 0, -- no teleport
   iconId = 1417426,
-  shortName = L["eyeOfAzsharaShortName"]
+  shortName = L["eyeOfAzsharaShortName"],
+  englishName = "Eye of Azshara",
+  mapID = 197
 };
 
 MDT.dungeonMaps[dungeonIndex] = {

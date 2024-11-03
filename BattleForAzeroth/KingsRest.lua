@@ -5,7 +5,9 @@ MDT.dungeonList[dungeonIndex] = L["Kings' Rest"]
 MDT.mapInfo[dungeonIndex] = {
   teleportId = 424187,
   iconId = 2011123,
-  shortName = L["kingsRestShortName"]
+  shortName = L["kingsRestShortName"],
+  englishName = "King's Rest",
+  mapID = 249
 };
 
 local zones = { 1004 }

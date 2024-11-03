@@ -5,7 +5,9 @@ local dungeonIndex = 101
 MDT.dungeonList[dungeonIndex] = L["DawnOfTheInfiniteUpper"]
 MDT.mapInfo[dungeonIndex] = {
   teleportId = 424197,
-  shortName = L["dawnupperShortName"]
+  shortName = L["dawnupperShortName"],
+  englishName = "DOTI: Murozond's Rise",
+  mapID = 464
 };
 
 local zones = { 2195, 2196, 2197 }

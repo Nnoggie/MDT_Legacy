@@ -11,7 +11,9 @@ MDT.mapInfo[dungeonIndex] = {
     },
   },
   teleportId = 159899,
-  shortName = L["shadowmoonShortName"]
+  shortName = L["shadowmoonShortName"],
+  englishName = "Shadowmoon Burial Grounds",
+  mapID = 165
 };
 local zones = { 574, 575, 576 }
 -- add zones to MDT.zoneIdToDungeonIdx

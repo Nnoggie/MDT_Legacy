@@ -22,7 +22,9 @@ MDT.mapInfo[dungeonIndex] = {
     },
   },
   teleportId = 354465,
-  shortName = L["hallsOfAtonementShortName"]
+  shortName = L["hallsOfAtonementShortName"],
+  englishName = "Halls of Atonement",
+  mapID = 378
 };
 
 local zones = { 1663, 1664, 1665 }

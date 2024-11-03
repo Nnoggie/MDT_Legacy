@@ -5,7 +5,9 @@ MDT.dungeonList[dungeonIndex] = L["Seat of the Triumvirate"]
 MDT.mapInfo[dungeonIndex] = {
   teleportId = 0, -- no teleport
   iconId = 1711340,
-  shortName = L["seatOfTheTriumvirateShortName"]
+  shortName = L["seatOfTheTriumvirateShortName"],
+  englishName = "Seat of the Triumvirate",
+  mapID = 239
 };
 
 MDT.dungeonTotalCount[dungeonIndex] = { normal = 275, teeming = 329, teemingEnabled = true }

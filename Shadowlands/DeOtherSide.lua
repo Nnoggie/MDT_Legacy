@@ -27,7 +27,9 @@ MDT.mapInfo[dungeonIndex] = {
     },
   },
   teleportId = 354468,
-  shortName = L["deOtherSideShortName"]
+  shortName = L["deOtherSideShortName"],
+  englishName = "De Other Side",
+  mapID = 377
 };
 
 local zones = { 1677, 1678, 1679, 1680 }

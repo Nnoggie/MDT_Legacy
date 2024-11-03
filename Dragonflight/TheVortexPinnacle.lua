@@ -12,7 +12,9 @@ MDT.mapInfo[dungeonIndex] = {
     },
   },
   teleportId = 410080,
-  shortName = L["vortexPinnacleShortName"]
+  shortName = L["vortexPinnacleShortName"],
+  englishName = "The Vortex Pinnacle",
+  mapID = 438
 };
 
 local zones = { 325 }

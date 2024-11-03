@@ -6,7 +6,9 @@ MDT.mapInfo[dungeonIndex] = {
   viewportPositionOverrides = {
   },
   teleportId = 131204,
-  shortName = L["templeOfTheJadeSerpentShortName"]
+  shortName = L["templeOfTheJadeSerpentShortName"],
+  englishName = "Temple of the Jade Serpent",
+  mapID = 2
 };
 local zones = { 429, 430 }
 -- add zones to MDT.zoneIdToDungeonIdx

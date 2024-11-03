@@ -6,7 +6,9 @@ local dungeonIndex = 43
 MDT.dungeonList[dungeonIndex] = L["TheNokhudOffensive"]
 MDT.mapInfo[dungeonIndex] = {
   teleportId = 393262,
-  shortName = L["nokhudOffensiveShortName"]
+  shortName = L["nokhudOffensiveShortName"],
+  englishName = "The Nokhud Offensive",
+  mapID = 400
 };
 
 local zones = { 2093 }

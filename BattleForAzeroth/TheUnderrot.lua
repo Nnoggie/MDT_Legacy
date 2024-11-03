@@ -12,7 +12,9 @@ MDT.mapInfo[dungeonIndex] = {
     },
   },
   teleportId = 410074,
-  shortName = L["underrotShortName"]
+  shortName = L["underrotShortName"],
+  englishName = "The Underrot",
+  mapID = 251
 };
 
 local zones = { 1041, 1042 }

@@ -6,7 +6,9 @@ local dungeonIndex = 51
 MDT.dungeonList[dungeonIndex] = L["Uldaman: Legacy of Tyr"]
 MDT.mapInfo[dungeonIndex] = {
   teleportId = 393222,
-  shortName = L["uldamanShortName"]
+  shortName = L["uldamanShortName"],
+  englishName = "Uldaman",
+  mapID = 403
 };
 
 local zones = { 2071, 2072 }

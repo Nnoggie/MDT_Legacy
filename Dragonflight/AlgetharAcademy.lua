@@ -5,7 +5,9 @@ local dungeonIndex = 45
 MDT.dungeonList[dungeonIndex] = L["AlgetharAcademy"]
 MDT.mapInfo[dungeonIndex] = {
   teleportId = 393273,
-  shortName = L["algetharShortName"]
+  shortName = L["algetharShortName"],
+  englishName = "Algethar Academy",
+  mapID = 402
 }
 
 local zones = { 2097, 2098, 2099 }

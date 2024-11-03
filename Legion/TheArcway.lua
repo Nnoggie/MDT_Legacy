@@ -5,7 +5,9 @@ MDT.dungeonList[dungeonIndex] = L["The Arcway"]
 MDT.mapInfo[dungeonIndex] = {
   teleportId = 0, -- no teleport
   iconId = 1417430,
-  shortName = L["arcwayShortName"]
+  shortName = L["arcwayShortName"],
+  englishName = "The Arcway",
+  mapID = 209
 };
 
 MDT.dungeonMaps[dungeonIndex] = {

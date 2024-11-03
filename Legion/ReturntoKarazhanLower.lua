@@ -24,7 +24,9 @@ MDT.mapInfo[dungeonIndex] = {
     },
   },
   teleportId = 373262,
-  shortName = L["karaLowerShortName"]
+  shortName = L["karaLowerShortName"],
+  englishName = "Return to Karazhan Lower",
+  mapID = 227
 };
 
 MDT.dungeonMaps[dungeonIndex] = {

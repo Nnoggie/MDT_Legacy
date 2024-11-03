@@ -13,7 +13,9 @@ MDT.mapInfo[dungeonIndex] = {
     },
   },
   teleportId = 424187,
-  shortName = L["atalDazarShortName"]
+  shortName = L["atalDazarShortName"],
+  englishName = "Atal'Dazar",
+  mapID = 244
 };
 
 local zones = { 934, 935 }

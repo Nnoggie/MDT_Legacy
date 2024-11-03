@@ -5,7 +5,9 @@ MDT.dungeonList[dungeonIndex] = L["The MOTHERLODE!!"]
 MDT.mapInfo[dungeonIndex] = {
   teleportId = 0, -- no teleport
   iconId = 2011121,
-  shortName = L["motherlodeShortName"]
+  shortName = L["motherlodeShortName"],
+  englishName = "The MOTHERLODE!!",
+  mapID = 247
 };
 
 local zones = { 1010 }

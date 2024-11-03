@@ -5,7 +5,9 @@ MDT.dungeonList[dungeonIndex] = L["Vault of the Wardens"]
 MDT.mapInfo[dungeonIndex] = {
   teleportId = 0, -- no teleport
   iconId = 1417431,
-  shortName = L["vaultOfTheWardensShortName"]
+  shortName = L["vaultOfTheWardensShortName"],
+  englishName = "Vault of the Wardens",
+  mapID = 207
 };
 
 MDT.dungeonMaps[dungeonIndex] = {

@@ -6,7 +6,9 @@ local dungeonIndex = 44
 MDT.dungeonList[dungeonIndex] = L["TheAzureVault"]
 MDT.mapInfo[dungeonIndex] = {
   teleportId = 393279,
-  shortName = L["azureVaultShortName"]
+  shortName = L["azureVaultShortName"],
+  englishName = "The Azure Vault",
+  mapID = 401
 };
 
 local zones = { 2073, 2074, 2075, 2076, 2077 }

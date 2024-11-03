@@ -21,7 +21,9 @@ MDT.mapInfo[dungeonIndex] = {
     },
   },
   teleportId = 373274,
-  shortName = L["mechagonIslandShortName"]
+  shortName = L["mechagonIslandShortName"],
+  englishName = "Mechagon - Junkyard",
+  mapID = 369
 };
 
 local zones = { 1490 }

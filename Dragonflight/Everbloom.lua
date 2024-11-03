@@ -12,7 +12,9 @@ MDT.mapInfo[dungeonIndex] = {
     },
   },
   teleportId = 159901,
-  shortName = L["everbloomShortName"]
+  shortName = L["everbloomShortName"],
+  englishName = "The Everbloom",
+  mapID = 168
 };
 
 local zones = { 620, 621 }
