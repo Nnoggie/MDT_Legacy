@@ -1,5 +1,4 @@
 ﻿<Ui xmlns="http://www.blizzard.com/wow/ui/">
-	<Script file='BlackRookHold.lua'/>
 	<Script file='CathedralOfEternalNight.lua'/>
 	<Script file='CourtOfStars.lua'/>
 	<Script file='DarkheartThicket.lua'/>
