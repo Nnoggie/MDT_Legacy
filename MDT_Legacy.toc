@@ -6,6 +6,7 @@
 ## Dependencies: MythicDungeonTools
 ## X-Curse-Project-ID: 1115573
 ## X-Wago-ID: mKOv1k6x
+## IconTexture: Interface\AddOns\MDT_Legacy\MDTFull
 
 locale.lua
 versionCheck.lua
