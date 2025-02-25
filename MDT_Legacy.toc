@@ -3,6 +3,7 @@
 ## Author: Nnoggie
 ## Version: 1.1.0-alpha
 ## Notes: MDT Plugin cotaining dungeons from previous expansions
+## Notes-ruRU: Плагин MDT, включающий подземелья из предыдущих дополнений
 ## Dependencies: MythicDungeonTools
 ## X-Curse-Project-ID: 1115573
 ## X-Wago-ID: mKOv1k6x
