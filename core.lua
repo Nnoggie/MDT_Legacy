@@ -22,7 +22,7 @@ function addon:OnInitialize()
     tinsert(MDT.seasonList, L["Shadowlands"])
     tinsert(MDT.dungeonSelectionToIndex, { 29, 30, 31, 32, 33, 34, 35, 121, 37, 38 })
     tinsert(MDT.seasonList, L["BFA"])
-    tinsert(MDT.dungeonSelectionToIndex, { 15, 16, 17, 18, 19, 20, 120, 22, 23, 24, 25, 122 })
+    tinsert(MDT.dungeonSelectionToIndex, { 15, 16, 17, 18, 19, 20, 120, 22, 23, 102, 25, 122 })
     tinsert(MDT.seasonList, L["Legion"])
     tinsert(MDT.dungeonSelectionToIndex, { 103, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 })
   end
