@@ -24,11 +24,24 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Wandering Shellback",
     ["id"] = 91785,
     ["count"] = 2,
-    ["health"] = 11855438,
+    ["health"] = 44618810,
     ["scale"] = 1,
     ["displayId"] = 51124,
     ["creatureType"] = "Beast",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["characteristics"] = {
+      ["Silence"] = true,
+    },
+    ["spells"] = {
+      [15716] = {
+      },
+      [195103] = {
+      },
+      [195104] = {
+      },
+      [195105] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 397,
@@ -120,11 +133,17 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Hatecoil Crusher",
     ["id"] = 91782,
     ["count"] = 10,
-    ["health"] = 24528930,
+    ["health"] = 89237620,
     ["scale"] = 1.4,
     ["displayId"] = 66813,
     ["creatureType"] = "Humanoid",
-    ["level"] = 111,
+    ["level"] = 81,
+    ["spells"] = {
+      [195129] = {
+      },
+      [195172] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 475.37853298076,
@@ -218,11 +237,22 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Hatecoil Warrior",
     ["id"] = 91781,
     ["count"] = 4,
-    ["health"] = 14819297,
+    ["health"] = 55773513,
     ["scale"] = 1,
     ["displayId"] = 66499,
     ["creatureType"] = "Humanoid",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["characteristics"] = {
+      ["Silence"] = true,
+    },
+    ["spells"] = {
+      [115385] = {
+      },
+      [176048] = {
+      },
+      [195094] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 408,
@@ -335,11 +365,20 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Hatecoil Oracle",
     ["id"] = 95861,
     ["count"] = 4,
-    ["health"] = 14819297,
+    ["health"] = 47407486,
     ["scale"] = 1,
     ["displayId"] = 66153,
     ["creatureType"] = "Humanoid",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["characteristics"] = {
+      ["Silence"] = true,
+    },
+    ["spells"] = {
+      [195037] = {
+      },
+      [195046] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 423,
@@ -392,11 +431,21 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Hatecoil Stormweaver",
     ["id"] = 91783,
     ["count"] = 4,
-    ["health"] = 14819297,
+    ["health"] = 50196161,
     ["scale"] = 1,
     ["displayId"] = 66152,
     ["creatureType"] = "Humanoid",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["spells"] = {
+      [195108] = {
+      },
+      [195109] = {
+      },
+      [196870] = {
+      },
+      [196871] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 417,
@@ -493,11 +542,19 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Hatecoil Wrangler",
     ["id"] = 100216,
     ["count"] = 4,
-    ["health"] = 14819297,
+    ["health"] = 55773513,
     ["scale"] = 1,
     ["displayId"] = 18393,
     ["creatureType"] = "Humanoid",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["spells"] = {
+      [197137] = {
+      },
+      [197144] = {
+      },
+      [225089] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 417,
@@ -566,11 +623,18 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Gritslime Snail",
     ["id"] = 91786,
     ["count"] = 4,
-    ["health"] = 17783157,
+    ["health"] = 66928215,
     ["scale"] = 1,
     ["displayId"] = 51219,
     ["creatureType"] = "Beast",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["characteristics"] = {
+      ["Taunt"] = true,
+    },
+    ["spells"] = {
+      [195473] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 373,
@@ -648,11 +712,24 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Hatecoil Arcanist",
     ["id"] = 97171,
     ["count"] = 10,
-    ["health"] = 30661163,
+    ["health"] = 89237620,
     ["scale"] = 1.4,
     ["displayId"] = 66163,
     ["creatureType"] = "Humanoid",
-    ["level"] = 111,
+    ["level"] = 81,
+    ["characteristics"] = {
+      ["Taunt"] = true,
+    },
+    ["spells"] = {
+      [195217] = {
+      },
+      [196027] = {
+      },
+      [196028] = {
+      },
+      [197105] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 363,
@@ -744,11 +821,18 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Cove Seagull",
     ["id"] = 91787,
     ["count"] = 1,
-    ["health"] = 8891579,
+    ["health"] = 33464108,
     ["scale"] = 0.7,
     ["displayId"] = 39490,
     ["creatureType"] = "Beast",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["characteristics"] = {
+      ["Taunt"] = true,
+    },
+    ["spells"] = {
+      [195561] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 336,
@@ -832,11 +916,19 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Restless Tides",
     ["id"] = 97173,
     ["count"] = 4,
-    ["health"] = 17783157,
+    ["health"] = 66928215,
     ["scale"] = 1,
     ["displayId"] = 36212,
     ["creatureType"] = "Elemental",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["spells"] = {
+      [195253] = {
+      },
+      [195284] = {
+      },
+      [195396] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 356,
@@ -888,11 +980,15 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Saltsea Droplet",
     ["id"] = 97172,
     ["count"] = 1,
-    ["health"] = 5243751,
+    ["health"] = 18962995,
     ["scale"] = 0.7,
     ["displayId"] = 25675,
     ["creatureType"] = "Elemental",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["spells"] = {
+      [193636] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 347,
@@ -1110,11 +1206,19 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Hatecoil Wavebinder",
     ["id"] = 97170,
     ["count"] = 4,
-    ["health"] = 14819297,
+    ["health"] = 55773513,
     ["scale"] = 1,
     ["displayId"] = 19365,
     ["creatureType"] = "Humanoid",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["spells"] = {
+      [195232] = {
+      },
+      [195234] = {
+      },
+      [196031] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 313,
@@ -1142,11 +1246,15 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Animated Storm",
     ["id"] = 95920,
     ["count"] = 2,
-    ["health"] = 8891579,
+    ["health"] = 33464108,
     ["scale"] = 1,
     ["displayId"] = 23504,
     ["creatureType"] = "Elemental",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["spells"] = {
+      [195528] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 312,
@@ -1174,11 +1282,15 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Bitterbrine Scavenger",
     ["id"] = 99630,
     ["count"] = 1,
-    ["health"] = 5334947,
+    ["health"] = 20078464,
     ["scale"] = 0.8,
     ["displayId"] = 66508,
     ["creatureType"] = "Humanoid",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["spells"] = {
+      [196060] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 301.99991666898,
@@ -1396,11 +1508,15 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Seaspray Crab",
     ["id"] = 91793,
     ["count"] = 1,
-    ["health"] = 5334947,
+    ["health"] = 20078464,
     ["scale"] = 0.8,
     ["displayId"] = 42978,
     ["creatureType"] = "Beast",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["spells"] = {
+      [196111] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 393.99994114414,
@@ -1704,11 +1820,22 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Mak'rana Hardshell",
     ["id"] = 95947,
     ["count"] = 4,
-    ["health"] = 14819297,
+    ["health"] = 55773513,
     ["scale"] = 1,
     ["displayId"] = 66063,
     ["creatureType"] = "Humanoid",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["characteristics"] = {
+      ["Taunt"] = true,
+    },
+    ["spells"] = {
+      [196175] = {
+      },
+      [196183] = {
+      },
+      [196203] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 432.99956269562,
@@ -1728,11 +1855,25 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Stormwake Hydra",
     ["id"] = 91792,
     ["count"] = 10,
-    ["health"] = 30661163,
+    ["health"] = 111547025,
     ["scale"] = 1.4,
     ["displayId"] = 55460,
     ["creatureType"] = "Beast",
-    ["level"] = 111,
+    ["level"] = 81,
+    ["spells"] = {
+      [196290] = {
+      },
+      [196293] = {
+      },
+      [196296] = {
+      },
+      [196299] = {
+      },
+      [202314] = {
+      },
+      [202315] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 421.28390566927,
@@ -1911,11 +2052,24 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Mak'rana Siltwalker",
     ["id"] = 91790,
     ["count"] = 4,
-    ["health"] = 14819297,
+    ["health"] = 55773513,
     ["scale"] = 1,
     ["displayId"] = 61620,
     ["creatureType"] = "Beast",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["characteristics"] = {
+      ["Taunt"] = true,
+    },
+    ["spells"] = {
+      [196127] = {
+      },
+      [196129] = {
+      },
+      [196144] = {
+      },
+      [196154] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 477.69029481882,
@@ -1931,11 +2085,28 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Mystic Ssa'veh",
     ["id"] = 98173,
     ["count"] = 4,
-    ["health"] = 18396698,
+    ["health"] = 66928215,
     ["scale"] = 1.5,
     ["displayId"] = 29934,
     ["creatureType"] = "Humanoid",
-    ["level"] = 111,
+    ["level"] = 81,
+    ["characteristics"] = {
+      ["Silence"] = true,
+    },
+    ["spells"] = {
+      [192706] = {
+      },
+      [193196] = {
+      },
+      [193491] = {
+      },
+      [196516] = {
+      },
+      [196870] = {
+      },
+      [196871] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 423.24117908337,
@@ -1948,11 +2119,23 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Binder Ashioi",
     ["id"] = 100250,
     ["count"] = 4,
-    ["health"] = 18396698,
+    ["health"] = 66928215,
     ["scale"] = 1.5,
     ["displayId"] = 66536,
     ["creatureType"] = "Humanoid",
-    ["level"] = 111,
+    ["level"] = 81,
+    ["spells"] = {
+      [192706] = {
+      },
+      [193196] = {
+      },
+      [193491] = {
+      },
+      [196515] = {
+      },
+      [196516] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 438.24118359689,
@@ -1964,11 +2147,26 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Channeler Varisz",
     ["id"] = 100249,
     ["count"] = 4,
-    ["health"] = 18396698,
+    ["health"] = 66928215,
     ["scale"] = 1.5,
     ["displayId"] = 66535,
     ["creatureType"] = "Humanoid",
-    ["level"] = 111,
+    ["level"] = 81,
+    ["characteristics"] = {
+      ["Taunt"] = true,
+    },
+    ["spells"] = {
+      [192706] = {
+      },
+      [193196] = {
+      },
+      [193491] = {
+      },
+      [196516] = {
+      },
+      [197105] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 477.35037682112,
@@ -1980,11 +2178,23 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Ritualist Lesha",
     ["id"] = 100248,
     ["count"] = 4,
-    ["health"] = 18396698,
+    ["health"] = 66928215,
     ["scale"] = 1.5,
     ["displayId"] = 66534,
     ["creatureType"] = "Humanoid",
-    ["level"] = 111,
+    ["level"] = 81,
+    ["spells"] = {
+      [192706] = {
+      },
+      [193196] = {
+      },
+      [193491] = {
+      },
+      [196027] = {
+      },
+      [196516] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 512.80492585056,
@@ -1996,11 +2206,17 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Skrog Wavecrasher",
     ["id"] = 91796,
     ["count"] = 10,
-    ["health"] = 25755377,
+    ["health"] = 93699497,
     ["scale"] = 1.5,
     ["displayId"] = 66819,
     ["creatureType"] = "Giant",
-    ["level"] = 111,
+    ["level"] = 81,
+    ["spells"] = {
+      [195944] = {
+      },
+      [195945] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 553.81648122698,
@@ -2050,11 +2266,15 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Skrog Tidestomper",
     ["id"] = 95939,
     ["count"] = 10,
-    ["health"] = 25755377,
+    ["health"] = 93699497,
     ["scale"] = 1.5,
     ["displayId"] = 66820,
     ["creatureType"] = "Giant",
-    ["level"] = 111,
+    ["level"] = 81,
+    ["spells"] = {
+      [195801] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 694.25469520566,
@@ -2090,11 +2310,15 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Bitterbrine Slave",
     ["id"] = 106787,
     ["count"] = 1,
-    ["health"] = 5334947,
+    ["health"] = 20078464,
     ["scale"] = 0.8,
     ["displayId"] = 66508,
     ["creatureType"] = "Humanoid",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["spells"] = {
+      [196058] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 584.71895971595,
@@ -2342,11 +2566,15 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Saltscale Skulker",
     ["id"] = 101414,
     ["count"] = 2,
-    ["health"] = 10373509,
+    ["health"] = 39041459,
     ["scale"] = 1,
     ["displayId"] = 1763,
     ["creatureType"] = "Humanoid",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["spells"] = {
+      [196064] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 532.63050413721,
@@ -2508,11 +2736,15 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Saltscale Lurker",
     ["id"] = 91794,
     ["count"] = 1,
-    ["health"] = 4445789,
+    ["health"] = 16732054,
     ["scale"] = 0.8,
     ["displayId"] = 1763,
     ["creatureType"] = "Humanoid",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["spells"] = {
+      [196064] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 536.63955431108,
@@ -2933,13 +3165,32 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Lady Hatecoil",
     ["id"] = 91789,
     ["count"] = 0,
-    ["health"] = 111016239,
+    ["health"] = 386347787,
     ["scale"] = 1,
     ["displayId"] = 66397,
     ["creatureType"] = "Humanoid",
-    ["level"] = 112,
+    ["level"] = 82,
     ["isBoss"] = true,
     ["encounterID"] = 1490,
+    ["characteristics"] = {
+      ["Taunt"] = true,
+    },
+    ["spells"] = {
+      [193597] = {
+      },
+      [193611] = {
+      },
+      [193682] = {
+      },
+      [193698] = {
+      },
+      [193712] = {
+      },
+      [197326] = {
+      },
+      [197868] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 387.14024109834,
@@ -2952,13 +3203,30 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "King Deepbeard",
     ["id"] = 91797,
     ["count"] = 0,
-    ["health"] = 117360016,
+    ["health"] = 406681881,
     ["scale"] = 1,
     ["displayId"] = 67254,
     ["creatureType"] = "Humanoid",
-    ["level"] = 112,
+    ["level"] = 82,
     ["isBoss"] = true,
     ["encounterID"] = 1491,
+    ["characteristics"] = {
+      ["Taunt"] = true,
+    },
+    ["spells"] = {
+      [193018] = {
+      },
+      [193051] = {
+      },
+      [193088] = {
+      },
+      [193093] = {
+      },
+      [193152] = {
+      },
+      [197550] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 569.12002946921,
@@ -2971,13 +3239,34 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Warlord Parjesh",
     ["id"] = 91784,
     ["count"] = 0,
-    ["health"] = 85397104,
+    ["health"] = 325345505,
     ["scale"] = 1,
     ["displayId"] = 65114,
     ["creatureType"] = "Humanoid",
-    ["level"] = 112,
+    ["level"] = 82,
     ["isBoss"] = true,
     ["encounterID"] = 1480,
+    ["characteristics"] = {
+      ["Taunt"] = true,
+    },
+    ["spells"] = {
+      [191900] = {
+      },
+      [191919] = {
+      },
+      [191946] = {
+      },
+      [191977] = {
+      },
+      [192053] = {
+      },
+      [192094] = {
+      },
+      [192131] = {
+      },
+      [196563] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 462.14023277994,
@@ -2990,13 +3279,25 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Serpentrix",
     ["id"] = 91808,
     ["count"] = 0,
-    ["health"] = 109796277,
+    ["health"] = 371823434,
     ["scale"] = 1,
     ["displayId"] = 65110,
     ["creatureType"] = "Beast",
-    ["level"] = 112,
+    ["level"] = 82,
     ["isBoss"] = true,
     ["encounterID"] = 1479,
+    ["spells"] = {
+      [191847] = {
+      },
+      [191848] = {
+      },
+      [191855] = {
+      },
+      [192050] = {
+      },
+      [202680] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 463.66547395761,
@@ -3009,13 +3310,34 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Wrath of Azshara",
     ["id"] = 96028,
     ["count"] = 0,
-    ["health"] = 570940668,
+    ["health"] = 2091506815,
     ["scale"] = 1,
     ["displayId"] = 66741,
     ["creatureType"] = "Elemental",
-    ["level"] = 112,
+    ["level"] = 82,
     ["isBoss"] = true,
     ["encounterID"] = 1492,
+    ["characteristics"] = {
+      ["Taunt"] = true,
+    },
+    ["spells"] = {
+      [192617] = {
+      },
+      [192619] = {
+      },
+      [192696] = {
+      },
+      [192706] = {
+      },
+      [192985] = {
+      },
+      [196666] = {
+      },
+      [197165] = {
+      },
+      [197365] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 477.98450963861,

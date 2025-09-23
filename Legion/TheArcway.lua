@@ -25,11 +25,17 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Unstable Amalgamation",
     ["id"] = 98425,
     ["count"] = 4,
-    ["health"] = 11114474,
+    ["health"] = 19172145,
     ["scale"] = 1,
     ["displayId"] = 33922,
     ["creatureType"] = "Aberration",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["spells"] = {
+      [193938] = {
+      },
+      [193942] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 397.90733166333,
@@ -86,11 +92,19 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Acidic Bile",
     ["id"] = 98728,
     ["count"] = 7,
-    ["health"] = 23585511,
+    ["health"] = 40900577,
     ["scale"] = 1,
     ["displayId"] = 46333,
     ["creatureType"] = "Aberration",
-    ["level"] = 111,
+    ["level"] = 81,
+    ["spells"] = {
+      [202156] = {
+      },
+      [202158] = {
+      },
+      [202223] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 402.48441859485,
@@ -146,11 +160,15 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Plagued Rat",
     ["id"] = 98732,
     ["count"] = 1,
-    ["health"] = 4445789,
+    ["health"] = 7668859,
     ["scale"] = 0.8,
     ["displayId"] = 27972,
     ["creatureType"] = "Beast",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["spells"] = {
+      [203592] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 369.95090390597,
@@ -284,11 +302,26 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Withered Manawraith",
     ["id"] = 105952,
     ["count"] = 6,
-    ["health"] = 18868408,
+    ["health"] = 32720463,
     ["scale"] = 1,
     ["displayId"] = 70161,
     ["creatureType"] = "Humanoid",
-    ["level"] = 111,
+    ["level"] = 81,
+    ["characteristics"] = {
+      ["Taunt"] = true,
+      ["Silence"] = true,
+      ["Stun"] = true,
+    },
+    ["spells"] = {
+      [210684] = {
+      },
+      [210688] = {
+      },
+      [211064] = {
+      },
+      [226246] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 391.77060420821,
@@ -429,11 +462,25 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Withered Fiend",
     ["id"] = 98733,
     ["count"] = 4,
-    ["health"] = 11855438,
+    ["health"] = 20450288,
     ["scale"] = 1,
     ["displayId"] = 70160,
     ["creatureType"] = "Humanoid",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["characteristics"] = {
+      ["Taunt"] = true,
+      ["Stun"] = true,
+    },
+    ["spells"] = {
+      [210645] = {
+      },
+      [210662] = {
+      },
+      [211064] = {
+      },
+      [226246] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 404.80674017291,
@@ -694,11 +741,17 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Forgotten Spirit",
     ["id"] = 113699,
     ["count"] = 8,
-    ["health"] = 24528930,
+    ["health"] = 51125720,
     ["scale"] = 1,
     ["displayId"] = 70550,
     ["creatureType"] = "Undead",
-    ["level"] = 111,
+    ["level"] = 81,
+    ["spells"] = {
+      [211064] = {
+      },
+      [226269] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 403.42814869785,
@@ -1142,11 +1195,26 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Warp Shade",
     ["id"] = 106059,
     ["count"] = 4,
-    ["health"] = 14819297,
+    ["health"] = 25562861,
     ["scale"] = 1,
     ["displayId"] = 31471,
     ["creatureType"] = "Elemental",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["characteristics"] = {
+      ["Taunt"] = true,
+      ["Silence"] = true,
+      ["Stun"] = true,
+    },
+    ["spells"] = {
+      [211064] = {
+      },
+      [211115] = {
+      },
+      [211125] = {
+      },
+      [226206] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 285.15303457788,
@@ -1228,11 +1296,19 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Arcane Anomaly",
     ["id"] = 98756,
     ["count"] = 4,
-    ["health"] = 15330582,
+    ["health"] = 25562861,
     ["scale"] = 1,
     ["displayId"] = 55131,
     ["creatureType"] = "Elemental",
-    ["level"] = 111,
+    ["level"] = 81,
+    ["spells"] = {
+      [211202] = {
+      },
+      [211217] = {
+      },
+      [226206] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 292.05823017762,
@@ -1304,11 +1380,21 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Mana Wyrm",
     ["id"] = 102351,
     ["count"] = 1,
-    ["health"] = 2963859,
+    ["health"] = 5112572,
     ["scale"] = 0.8,
     ["displayId"] = 19285,
     ["creatureType"] = "Beast",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["characteristics"] = {
+      ["Taunt"] = true,
+      ["Silence"] = true,
+    },
+    ["spells"] = {
+      [203593] = {
+      },
+      [211476] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 260.74310676119,
@@ -1484,11 +1570,22 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Nightborne Spellsword",
     ["id"] = 105921,
     ["count"] = 4,
-    ["health"] = 14819297,
+    ["health"] = 25562861,
     ["scale"] = 1,
     ["displayId"] = 69434,
     ["creatureType"] = "Humanoid",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["characteristics"] = {
+      ["Stun"] = true,
+    },
+    ["spells"] = {
+      [210868] = {
+      },
+      [211000] = {
+      },
+      [211064] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 332.94631363386,
@@ -1520,11 +1617,25 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Nightborne Reclaimer",
     ["id"] = 105915,
     ["count"] = 4,
-    ["health"] = 11855444,
+    ["health"] = 20450287,
     ["scale"] = 1,
     ["displayId"] = 69432,
     ["creatureType"] = "Humanoid",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["characteristics"] = {
+      ["Silence"] = true,
+      ["Stun"] = true,
+    },
+    ["spells"] = {
+      [211007] = {
+      },
+      [211037] = {
+      },
+      [211064] = {
+      },
+      [211079] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 322.94606047922,
@@ -1564,11 +1675,15 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Enchanted Broodling",
     ["id"] = 105876,
     ["count"] = 1,
-    ["health"] = 3112046,
+    ["health"] = 5368201,
     ["scale"] = 0.6,
     ["displayId"] = 69416,
     ["creatureType"] = "Beast",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["spells"] = {
+      [211501] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 486.63539922919,
@@ -1702,11 +1817,11 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Vicious Manafang",
     ["id"] = 98759,
     ["count"] = 4,
-    ["health"] = 10373509,
+    ["health"] = 17894003,
     ["scale"] = 1,
     ["displayId"] = 65920,
     ["creatureType"] = "Beast",
-    ["level"] = 110,
+    ["level"] = 80,
     ["clones"] = {
       [1] = {
         ["x"] = 498.82290874527,
@@ -1786,11 +1901,17 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Wrathguard Felblade",
     ["id"] = 98770,
     ["count"] = 4,
-    ["health"] = 14819297,
+    ["health"] = 25562861,
     ["scale"] = 1,
     ["displayId"] = 64693,
     ["creatureType"] = "Demon",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["spells"] = {
+      [211744] = {
+      },
+      [211756] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 541.58285067247,
@@ -1888,11 +2009,28 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Eredar Chaosbringer",
     ["id"] = 105617,
     ["count"] = 4,
-    ["health"] = 11855444,
+    ["health"] = 20450287,
     ["scale"] = 1,
     ["displayId"] = 63997,
     ["creatureType"] = "Demon",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["characteristics"] = {
+      ["Taunt"] = true,
+    },
+    ["spells"] = {
+      [211571] = {
+      },
+      [211632] = {
+      },
+      [211757] = {
+      },
+      [226285] = {
+      },
+      [226420] = {
+      },
+      [226421] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 548.45788803829,
@@ -2031,11 +2169,20 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Dreadborne Seer",
     ["id"] = 105651,
     ["count"] = 10,
-    ["health"] = 18868422,
+    ["health"] = 32720460,
     ["scale"] = 1,
     ["displayId"] = 67378,
     ["creatureType"] = "Demon",
-    ["level"] = 111,
+    ["level"] = 81,
+    ["characteristics"] = {
+      ["Taunt"] = true,
+    },
+    ["spells"] = {
+      [211771] = {
+      },
+      [211775] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 554.05727447644,
@@ -2107,11 +2254,32 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Wyrmtongue Scavenger",
     ["id"] = 105629,
     ["count"] = 1,
-    ["health"] = 4445789,
+    ["health"] = 7668859,
     ["scale"] = 1,
     ["displayId"] = 65211,
     ["creatureType"] = "Demon",
-    ["level"] = 110,
+    ["level"] = 80,
+    ["characteristics"] = {
+      ["Taunt"] = true,
+    },
+    ["spells"] = {
+      [211956] = {
+      },
+      [211958] = {
+      },
+      [211959] = {
+      },
+      [211975] = {
+      },
+      [211994] = {
+      },
+      [211995] = {
+      },
+      [211999] = {
+      },
+      [212008] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 567.57900670522,
@@ -2185,11 +2353,17 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Felguard Destroyer",
     ["id"] = 105682,
     ["count"] = 8,
-    ["health"] = 24528930,
+    ["health"] = 40900577,
     ["scale"] = 1.2,
     ["displayId"] = 39908,
     ["creatureType"] = "Demon",
-    ["level"] = 111,
+    ["level"] = 81,
+    ["spells"] = {
+      [16856] = {
+      },
+      [211785] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 541.11868060688,
@@ -2216,11 +2390,19 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Priestess of Misery",
     ["id"] = 105706,
     ["count"] = 10,
-    ["health"] = 29434718,
+    ["health"] = 49080693,
     ["scale"] = 1,
     ["displayId"] = 21542,
     ["creatureType"] = "Demon",
-    ["level"] = 111,
+    ["level"] = 81,
+    ["spells"] = {
+      [211874] = {
+      },
+      [211875] = {
+      },
+      [211917] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 561.37487073532,
@@ -2233,13 +2415,26 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Ivanyr",
     ["id"] = 98203,
     ["count"] = 0,
-    ["health"] = 99914542,
+    ["health"] = 161046022,
     ["scale"] = 1,
     ["displayId"] = 65741,
     ["creatureType"] = "Humanoid",
-    ["level"] = 112,
+    ["level"] = 82,
     ["isBoss"] = true,
     ["encounterID"] = 1497,
+    ["characteristics"] = {
+      ["Taunt"] = true,
+    },
+    ["spells"] = {
+      [196357] = {
+      },
+      [196392] = {
+      },
+      [196396] = {
+      },
+      [196562] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 141.82552042721,
@@ -2252,17 +2447,41 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Corstilax",
     ["id"] = 98205,
     ["count"] = 0,
-    ["health"] = 109796277,
+    ["health"] = 178940017,
     ["scale"] = 1,
     ["displayId"] = 65791,
     ["creatureType"] = "Mechanical",
-    ["level"] = 112,
+    ["level"] = 82,
     ["isBoss"] = true,
     ["encounterID"] = 1498,
+    ["characteristics"] = {
+      ["Taunt"] = true,
+    },
+    ["spells"] = {
+      [195791] = {
+      },
+      [195804] = {
+      },
+      [196070] = {
+      },
+      [196074] = {
+      },
+      [196115] = {
+      },
+      [196142] = {
+      },
+      [196213] = {
+      },
+      [211064] = {
+      },
+      [220481] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 329.28477214128,
         ["y"] = -433.29667076262,
+        ["g"] = 47,
         ["sublevel"] = 1,
       },
     },
@@ -2271,13 +2490,26 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "General Xakal",
     ["id"] = 98206,
     ["count"] = 0,
-    ["health"] = 99914610,
+    ["health"] = 161046022,
     ["scale"] = 1,
     ["displayId"] = 65792,
     ["creatureType"] = "Demon",
-    ["level"] = 112,
+    ["level"] = 82,
     ["isBoss"] = true,
     ["encounterID"] = 1499,
+    ["characteristics"] = {
+      ["Taunt"] = true,
+    },
+    ["spells"] = {
+      [197776] = {
+      },
+      [197810] = {
+      },
+      [212030] = {
+      },
+      [212071] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 638.61053326137,
@@ -2290,11 +2522,11 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Nal'tira",
     ["id"] = 98207,
     ["count"] = 0,
-    ["health"] = 88812990,
+    ["health"] = 178940017,
     ["scale"] = 1,
     ["displayId"] = 65793,
     ["creatureType"] = "Beast",
-    ["level"] = 112,
+    ["level"] = 82,
     ["isBoss"] = true,
     ["encounterID"] = 1500,
     ["clones"] = {
