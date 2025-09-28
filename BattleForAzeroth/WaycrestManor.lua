@@ -67,9 +67,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 1,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-          [1] = true,
-        },
       },
       [2] = {
         ["x"] = 567.762281227,
@@ -112,9 +109,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 3,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-          [1] = true,
-        },
       },
       [8] = {
         ["x"] = 138.80869323712,
@@ -122,9 +116,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 53,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-          [1] = true,
-        },
       },
       [9] = {
         ["x"] = 467.0428069491,
@@ -146,9 +137,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 57,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-          [1] = true,
-        },
       },
       [12] = {
         ["x"] = 476.66998361115,
@@ -203,9 +191,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 6,
         ["sublevel"] = 1,
         ["scale"] = 1.6,
-        ["infested"] = {
-          [2] = true,
-        },
       },
       [2] = {
         ["x"] = 730.01578740339,
@@ -213,9 +198,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 4,
         ["sublevel"] = 1,
         ["scale"] = 1.6,
-        ["infested"] = {
-          [3] = true,
-        },
       },
       [3] = {
         ["x"] = 308.46937652898,
@@ -223,9 +205,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 49,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-          [3] = true,
-        },
       },
     },
   },
@@ -269,9 +248,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 5,
         ["sublevel"] = 1,
         ["scale"] = 1.6,
-        ["infested"] = {
-          [3] = true,
-        },
       },
       [2] = {
         ["x"] = 745.89116426398,
@@ -343,9 +319,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 5,
         ["sublevel"] = 1,
         ["scale"] = 1.6,
-        ["infested"] = {
-          [2] = true,
-        },
       },
       [3] = {
         ["x"] = 733.41767726667,
@@ -409,9 +382,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 33,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["infested"] = {
-          [1] = true,
-        },
       },
       [3] = {
         ["x"] = 788.87607692059,
@@ -447,9 +417,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 29,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["infested"] = {
-          [1] = true,
-        },
       },
       [8] = {
         ["x"] = 677.89294606072,
@@ -513,9 +480,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 23,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["infested"] = {
-          [1] = true,
-        },
       },
       [17] = {
         ["x"] = 677.07002636501,
@@ -537,9 +501,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 41,
         ["sublevel"] = 1,
         ["scale"] = 1.6,
-        ["infested"] = {
-          [1] = true,
-        },
       },
       [20] = {
         ["x"] = 714.79467339365,
@@ -561,9 +522,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 41,
         ["sublevel"] = 1,
         ["scale"] = 1.6,
-        ["infested"] = {
-          [1] = true,
-        },
       },
       [23] = {
         ["x"] = 705.04429787405,
@@ -818,9 +776,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["scale"] = 1.4,
         ["patrol"] = {
         },
-        ["infested"] = {
-          [3] = true,
-        },
       },
       [5] = {
         ["x"] = 708.74830187589,
@@ -842,9 +797,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 35,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-          [2] = true,
-        },
       },
       [8] = {
         ["x"] = 745.90198441608,
@@ -911,9 +863,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 23,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-          [3] = true,
-        },
       },
       [4] = {
         ["x"] = 795.16348354966,
@@ -1049,9 +998,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 28,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-          [2] = true,
-        },
       },
       [3] = {
         ["x"] = 753.17735076352,
@@ -1066,9 +1012,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 37,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-          [2] = true,
-        },
       },
       [5] = {
         ["x"] = 750.467285486,
@@ -1181,9 +1124,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 39,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-          [3] = true,
-        },
       },
       [2] = {
         ["x"] = 714.57468264001,
@@ -1193,9 +1133,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["scale"] = 1.4,
         ["patrol"] = {
         },
-        ["infested"] = {
-          [3] = true,
-        },
       },
       [3] = {
         ["x"] = 739.85779052192,
@@ -1203,8 +1140,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 35,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-        },
       },
     },
   },
@@ -1359,9 +1294,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 15,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-          [2] = true,
-        },
       },
       [3] = {
         ["x"] = 36.367579243702,
@@ -1376,10 +1308,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 44,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-          [1] = true,
-          [2] = true,
-        },
       },
       [5] = {
         ["x"] = 295.01316295299,
@@ -1439,9 +1367,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 11,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-          [3] = true,
-        },
       },
       [3] = {
         ["x"] = 463.72985274662,
@@ -1513,8 +1438,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 51,
         ["sublevel"] = 1,
         ["scale"] = 1.6,
-        ["infested"] = {
-        },
       },
       [4] = {
         ["x"] = 292.74184025398,
@@ -1581,9 +1504,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 8,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-          [2] = true,
-        },
       },
       [2] = {
         ["x"] = 404.70340317615,
@@ -1591,9 +1511,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 10,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-          [2] = true,
-        },
       },
       [3] = {
         ["x"] = 37.831861805946,
@@ -1658,9 +1575,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 8,
         ["sublevel"] = 1,
         ["scale"] = 1.6,
-        ["infested"] = {
-          [1] = true,
-        },
       },
       [4] = {
         ["x"] = 419.18672909276,
@@ -1689,9 +1603,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 10,
         ["sublevel"] = 1,
         ["scale"] = 1.6,
-        ["infested"] = {
-          [1] = true,
-        },
       },
       [8] = {
         ["x"] = 426.91878429804,
@@ -1947,9 +1858,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
             ["y"] = -243.61186508615,
           },
         },
-        ["infested"] = {
-          [2] = true,
-        },
       },
       [2] = {
         ["x"] = 461.84118561738,
@@ -1997,9 +1905,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
             ["x"] = 495.19614696731,
             ["y"] = -168.34014763794,
           },
-        },
-        ["infested"] = {
-          [1] = true,
         },
       },
       [4] = {
@@ -2053,9 +1958,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 46,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-          [2] = true,
-        },
       },
       [3] = {
         ["x"] = 49.782305667597,
@@ -2174,9 +2076,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 21,
         ["sublevel"] = 1,
         ["scale"] = 1.8,
-        ["infested"] = {
-          [3] = true,
-        },
       },
     },
   },
@@ -2307,9 +2206,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
             ["y"] = -229.20259458748,
           },
         },
-        ["infested"] = {
-          [1] = true,
-        },
       },
       [8] = {
         ["x"] = 560.64100917202,
@@ -2352,9 +2248,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 50,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-          [1] = true,
-        },
       },
       [14] = {
         ["x"] = 584.40421366427,
@@ -2362,9 +2255,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 18,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-          [1] = true,
-        },
       },
       [15] = {
         ["x"] = 559.87111405353,
@@ -2447,9 +2337,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 20,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-          [2] = true,
-        },
       },
       [3] = {
         ["x"] = 592.32127516911,
@@ -2471,9 +2358,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 17,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-          [2] = true,
-        },
       },
       [6] = {
         ["x"] = 612.84455088437,
@@ -2481,9 +2365,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 17,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-          [3] = true,
-        },
       },
       [7] = {
         ["x"] = 286.40490610524,
@@ -2491,9 +2372,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 50,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-          [2] = true,
-        },
       },
     },
   },
@@ -2536,9 +2414,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 19,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-          [3] = true,
-        },
       },
       [2] = {
         ["x"] = 625.46984141829,
@@ -2546,9 +2421,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 17,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-          [1] = true,
-        },
       },
       [3] = {
         ["x"] = 599.06722120169,
@@ -2603,9 +2475,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 48,
         ["sublevel"] = 1,
         ["scale"] = 1.4,
-        ["infested"] = {
-          [1] = true,
-        },
       },
       [2] = {
         ["x"] = 291.76190413048,
@@ -2668,9 +2537,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 57,
         ["sublevel"] = 1,
         ["scale"] = 1.6,
-        ["infested"] = {
-          [2] = true,
-        },
       },
       [4] = {
         ["x"] = 512.628506462,
@@ -2759,9 +2625,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
             ["x"] = 154.43773634318,
             ["y"] = -417.96739332058,
           },
-        },
-        ["infested"] = {
-          [3] = true,
         },
       },
     },

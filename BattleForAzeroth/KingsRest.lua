@@ -95,9 +95,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["x"] = 572.54582578774,
         ["y"] = -272.04388546541,
         ["sublevel"] = 1,
-        ["infested"] = {
-          [3] = true,
-        },
       },
       [3] = {
         ["x"] = 586.42175363663,
@@ -162,9 +159,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -290.70197655371,
         ["g"] = 1,
         ["sublevel"] = 1,
-        ["infested"] = {
-          [1] = true,
-        },
       },
       [6] = {
         ["x"] = 584.45123295845,
@@ -257,9 +251,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -382.14772138125,
         ["g"] = 4,
         ["sublevel"] = 1,
-        ["infested"] = {
-          [1] = true,
-        },
       },
     },
   },
@@ -491,9 +482,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -426.40147078639,
         ["g"] = 8,
         ["sublevel"] = 1,
-        ["infested"] = {
-          [3] = true,
-        },
       },
     },
   },
@@ -567,9 +555,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -459.59492148032,
         ["g"] = 9,
         ["sublevel"] = 1,
-        ["infested"] = {
-          [2] = true,
-        },
       },
       [5] = {
         ["x"] = 521.59986789148,
@@ -631,9 +616,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -455.06108904006,
         ["g"] = 10,
         ["sublevel"] = 1,
-        ["infested"] = {
-          [2] = true,
-        },
       },
     },
   },
@@ -687,9 +669,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -430.9731833347,
         ["g"] = 11,
         ["sublevel"] = 1,
-        ["infested"] = {
-          [3] = true,
-        },
       },
     },
   },
@@ -840,9 +819,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["x"] = 489.18748663995,
         ["y"] = -154.42099320188,
         ["sublevel"] = 1,
-        ["infested"] = {
-          [3] = true,
-        },
       },
       [2] = {
         ["x"] = 427.55797998268,
@@ -921,9 +897,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -108.64218956602,
         ["g"] = 12,
         ["sublevel"] = 1,
-        ["infested"] = {
-          [2] = true,
-        },
       },
       [3] = {
         ["x"] = 363.8363702754,
@@ -936,9 +909,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -265.35726521035,
         ["g"] = 16,
         ["sublevel"] = 1,
-        ["infested"] = {
-          [2] = true,
-        },
       },
       [5] = {
         ["x"] = 361.2857550291,
@@ -1046,27 +1016,18 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -148.20237578989,
         ["g"] = 13,
         ["sublevel"] = 1,
-        ["infested"] = {
-          [3] = true,
-        },
       },
       [2] = {
         ["x"] = 363.06714580268,
         ["y"] = -214.51280619128,
         ["g"] = 15,
         ["sublevel"] = 1,
-        ["infested"] = {
-          [1] = true,
-        },
       },
       [3] = {
         ["x"] = 374.79926462779,
         ["y"] = -305.34123741919,
         ["g"] = 28,
         ["sublevel"] = 1,
-        ["infested"] = {
-          [2] = true,
-        },
       },
       [4] = {
         ["x"] = 373.41261882941,
@@ -1259,8 +1220,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -171.65071910507,
         ["g"] = 14,
         ["sublevel"] = 1,
-        ["infested"] = {
-        },
       },
       [2] = {
         ["x"] = 374.48196559793,
@@ -1529,9 +1488,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -157.12851357868,
         ["g"] = 20,
         ["sublevel"] = 1,
-        ["infested"] = {
-          [1] = true,
-        },
       },
       [6] = {
         ["x"] = 454.6196161264,
@@ -1544,18 +1500,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -173.95538022775,
         ["g"] = 21,
         ["sublevel"] = 1,
-        ["infested"] = {
-          [1] = true,
-        },
       },
       [8] = {
         ["x"] = 420.42490764921,
         ["y"] = -170.1560238531,
         ["g"] = 22,
         ["sublevel"] = 1,
-        ["infested"] = {
-          [1] = true,
-        },
       },
       [9] = {
         ["x"] = 423.44816403468,
