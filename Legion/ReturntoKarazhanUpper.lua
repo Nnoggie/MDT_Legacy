@@ -26,8 +26,8 @@ MDT.mapPOIs[dungeonIndex] = {
     [1] = {
       ["template"] = "MapLinkPinTemplate",
       ["type"] = "generalNote",
-      ["x"] = 97.230636733041,
-      ["y"] = -133.25821564774,
+      ["x"] = 473.71573045709,
+      ["y"] = -62.768256975879,
       ["text"] = "manaDevourerNote",
     },
   },
