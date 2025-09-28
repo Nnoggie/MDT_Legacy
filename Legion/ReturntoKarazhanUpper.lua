@@ -60,7 +60,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -359.35690283028,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["disguised"] = true,
       },
       [2] = {
         ["x"] = 294.90705527658,
@@ -94,7 +93,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -328.17757063263,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["disguised"] = true,
       },
     },
   },
@@ -278,7 +276,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 2,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["disguised"] = true,
       },
       [6] = {
         ["x"] = 127.55570078127,
@@ -363,7 +360,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -126.521394096,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["disguised"] = true,
       },
       [3] = {
         ["x"] = 752.97600326895,
@@ -421,7 +417,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -133.63883577023,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["disguised"] = true,
       },
       [2] = {
         ["x"] = 124.60417422543,
@@ -434,7 +429,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -190.54539627945,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["disguised"] = true,
       },
       [4] = {
         ["x"] = 125.22283986485,
@@ -501,7 +495,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -195.08894097639,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["disguised"] = true,
       },
     },
   },
@@ -562,7 +555,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -373.43865103144,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["disguised"] = true,
       },
       [2] = {
         ["x"] = 578.508042024,
@@ -634,7 +626,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -344.34935617413,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["disguised"] = true,
       },
       [3] = {
         ["x"] = 578.44913390362,
@@ -719,7 +710,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 7,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["disguised"] = true,
       },
       [9] = {
         ["x"] = 549.42309586086,
