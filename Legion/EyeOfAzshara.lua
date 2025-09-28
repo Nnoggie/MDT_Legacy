@@ -197,7 +197,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["x"] = 436.64439311646,
         ["y"] = -425.78237417136,
         ["sublevel"] = 1,
-        ["teeming"] = true,
         ["patrolFacing"] = 1.1780972450962,
         ["patrolFacing2"] = 4.5160394395353,
         ["patrol"] = {
@@ -405,7 +404,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -470.45451312763,
         ["g"] = 1,
         ["sublevel"] = 1,
-        ["teeming"] = true,
       },
       [6] = {
         ["x"] = 429.96351036801,
@@ -583,21 +581,18 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -464.64198782103,
         ["g"] = 2,
         ["sublevel"] = 1,
-        ["teeming"] = true,
       },
       [7] = {
         ["x"] = 395.94487785661,
         ["y"] = -457.27253025789,
         ["g"] = 3,
         ["sublevel"] = 1,
-        ["teeming"] = true,
       },
       [8] = {
         ["x"] = 439.90785451767,
         ["y"] = -402.15089441892,
         ["g"] = 7,
         ["sublevel"] = 1,
-        ["teeming"] = true,
       },
       [9] = {
         ["x"] = 451.27258022394,
@@ -954,25 +949,21 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["x"] = 368.57923501715,
         ["y"] = -238.36773097118,
         ["sublevel"] = 1,
-        ["teeming"] = true,
       },
       [7] = {
         ["x"] = 302.40423124727,
         ["y"] = -290.12818408386,
         ["sublevel"] = 1,
-        ["teeming"] = true,
       },
       [8] = {
         ["x"] = 317.7972667033,
         ["y"] = -329.36204016187,
         ["sublevel"] = 1,
-        ["teeming"] = true,
       },
       [9] = {
         ["x"] = 369.98905879438,
         ["y"] = -386.13280475852,
         ["sublevel"] = 1,
-        ["teeming"] = true,
       },
     },
   },
@@ -2009,7 +2000,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["x"] = 455.60312097466,
         ["y"] = -212.4607750456,
         ["sublevel"] = 1,
-        ["teeming"] = true,
         ["patrolFacing"] = 0.39269908169872,
         ["patrol"] = {
           [1] = {
@@ -2251,14 +2241,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -414.09041233876,
         ["g"] = 50,
         ["sublevel"] = 1,
-        ["teeming"] = true,
       },
       [8] = {
         ["x"] = 555.9164636036,
         ["y"] = -174.50247541317,
         ["g"] = 65,
         ["sublevel"] = 1,
-        ["teeming"] = true,
       },
     },
   },
