@@ -233,7 +233,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Diseased Mastiff",
     ["id"] = 135234,
     ["count"] = 3,
-    ["teemingCount"] = 2,
     ["health"] = 740563,
     ["scale"] = 1,
     ["displayId"] = 30221,

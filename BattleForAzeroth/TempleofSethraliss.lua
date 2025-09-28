@@ -1985,7 +1985,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["name"] = "Heart Guardian",
     ["id"] = 139946,
     ["count"] = 6,
-    ["teemingCount"] = 4,
     ["health"] = 1229592,
     ["scale"] = 1,
     ["neutral"] = true,
