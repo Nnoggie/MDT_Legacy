@@ -169,7 +169,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 6,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["inspiring"] = true,
       },
       [13] = {
         ["x"] = 180.77721130532,
@@ -287,7 +286,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 22,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["inspiring"] = true,
       },
       [30] = {
         ["x"] = 425.1541487819,
@@ -337,7 +335,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 23,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["inspiring"] = true,
       },
       [37] = {
         ["x"] = 425.43249333819,
@@ -691,7 +688,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -102.36540369974,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["inspiring"] = true,
         ["patrolFacing"] = 2.9452431127404,
         ["patrolFacing2"] = 4.7123889803847,
         ["patrol"] = {
@@ -1415,7 +1411,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 26,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["inspiring"] = true,
       },
       [2] = {
         ["x"] = 575.77813971239,
@@ -1639,7 +1634,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 54,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["inspiring"] = true,
       },
       [34] = {
         ["x"] = 447.37652256508,
@@ -1718,7 +1712,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 56,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["inspiring"] = true,
       },
       [45] = {
         ["x"] = 411.65288048598,
@@ -2063,7 +2056,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 85,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["inspiring"] = true,
       },
       [6] = {
         ["x"] = 495.31212446061,
@@ -2132,7 +2124,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 63,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["inspiring"] = true,
         ["patrolFacing"] = 1.3744467859455,
       },
       [5] = {
@@ -2453,7 +2444,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 38,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["inspiring"] = true,
         ["patrolFacing"] = 1.3744467859455,
         ["patrolFacing2"] = 4.319689898686,
       },
@@ -2463,7 +2453,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 39,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["inspiring"] = true,
       },
       [7] = {
         ["x"] = 624.08577077813,
@@ -2779,7 +2768,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 66,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["inspiring"] = true,
       },
       [11] = {
         ["x"] = 402.78564538842,
@@ -2814,7 +2802,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -447.16255008825,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["inspiring"] = true,
         ["patrolFacing"] = 4.8105637508094,
         ["patrol"] = {
           [1] = {
@@ -3162,7 +3149,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -421.76136854311,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["inspiring"] = true,
         ["patrolFacing"] = 3.8288160465626,
       },
       [5] = {
@@ -3345,7 +3331,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 71,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["inspiring"] = true,
       },
     },
   },
@@ -3433,7 +3418,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 77,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["inspiring"] = true,
       },
       [10] = {
         ["x"] = 654.26011895927,
@@ -3571,7 +3555,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 88,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["inspiring"] = true,
       },
       [5] = {
         ["x"] = 689.39852784362,
@@ -4266,7 +4249,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -131.50259432472,
         ["g"] = 104,
         ["sublevel"] = 1,
-        ["inspiring"] = true,
       },
       [8] = {
         ["x"] = 368.80069522373,

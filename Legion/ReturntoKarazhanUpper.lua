@@ -257,7 +257,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 1,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["inspiring"] = true,
       },
       [3] = {
         ["x"] = 63.671590067718,
@@ -315,7 +314,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 4,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["inspiring"] = true,
       },
       [11] = {
         ["x"] = 178.10415717185,
@@ -716,7 +714,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 6,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["inspiring"] = true,
       },
       [8] = {
         ["x"] = 556.87966917252,
@@ -760,7 +757,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["g"] = 8,
         ["sublevel"] = 1,
         ["scale"] = 1,
-        ["inspiring"] = true,
       },
       [14] = {
         ["x"] = 497.41461675087,
