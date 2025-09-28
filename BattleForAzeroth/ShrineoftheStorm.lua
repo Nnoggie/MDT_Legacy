@@ -64,120 +64,6 @@ MDT.mapPOIs[dungeonIndex] = {
       ["x"] = 293.50645016815,
       ["y"] = -253.51733981453,
     },
-    [5] = {
-      ["template"] = "VignettePinTemplate",
-      ["type"] = "nyalothaSpire",
-      ["x"] = 372.10909499504,
-      ["y"] = -406.27451312521,
-      ["index"] = 4,
-      ["npcId"] = 161244,
-      ["tooltipText"] = "Defiled Spire of Ny'alotha",
-      ["weeks"] = {
-        [1] = true,
-        [2] = true,
-        [5] = true,
-        [6] = true,
-        [9] = true,
-        [10] = true,
-      },
-    },
-    [6] = {
-      ["template"] = "VignettePinTemplate",
-      ["type"] = "nyalothaSpire",
-      ["x"] = 436.54485983495,
-      ["y"] = -103.13131615803,
-      ["index"] = 1,
-      ["npcId"] = 161241,
-      ["tooltipText"] = "Cursed Spire of Ny'alotha",
-      ["weeks"] = {
-        [1] = true,
-        [2] = true,
-        [5] = true,
-        [6] = true,
-        [9] = true,
-        [10] = true,
-      },
-    },
-    [7] = {
-      ["template"] = "VignettePinTemplate",
-      ["type"] = "nyalothaSpire",
-      ["x"] = 437.17700663183,
-      ["y"] = -101.55790302352,
-      ["index"] = 5,
-      ["npcId"] = 161244,
-      ["tooltipText"] = "Defiled Spire of Ny'alotha",
-      ["weeks"] = {
-        [3] = true,
-        [4] = true,
-        [7] = true,
-        [8] = true,
-        [11] = true,
-        [12] = true,
-      },
-    },
-    [8] = {
-      ["template"] = "VignettePinTemplate",
-      ["type"] = "nyalothaSpire",
-      ["x"] = 371.293909517,
-      ["y"] = -407.05966533335,
-      ["index"] = 6,
-      ["npcId"] = 161241,
-      ["tooltipText"] = "Cursed Spire of Ny'alotha",
-      ["weeks"] = {
-        [3] = true,
-        [4] = true,
-        [7] = true,
-        [8] = true,
-        [11] = true,
-        [12] = true,
-      },
-    },
-    [9] = {
-      ["template"] = "VignettePinTemplate",
-      ["type"] = "nyalothaSpire",
-      ["x"] = 365.05430867712,
-      ["y"] = -234.78449730226,
-      ["index"] = 2,
-      ["npcId"] = 161124,
-      ["tooltipText"] = "Brutal Spire of Ny'alotha",
-      ["weeks"] = {
-        [1] = true,
-        [2] = true,
-        [3] = true,
-        [4] = true,
-        [5] = true,
-        [6] = true,
-        [7] = true,
-        [8] = true,
-        [9] = true,
-        [10] = true,
-        [11] = true,
-        [12] = true,
-      },
-    },
-    [10] = {
-      ["template"] = "VignettePinTemplate",
-      ["type"] = "nyalothaSpire",
-      ["x"] = 257.75063927047,
-      ["y"] = -233.56873425269,
-      ["index"] = 3,
-      ["npcId"] = 161243,
-      ["tooltipText"] = "Entropic Spire of Ny'alotha",
-      ["weeks"] = {
-        [1] = true,
-        [2] = true,
-        [3] = true,
-        [4] = true,
-        [5] = true,
-        [6] = true,
-        [7] = true,
-        [8] = true,
-        [9] = true,
-        [10] = true,
-        [11] = true,
-        [12] = true,
-      },
-    },
   },
   [2] = {
     [1] = {
@@ -1965,201 +1851,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [13] = {
-    ["name"] = "Enchanted Emissary",
-    ["id"] = 155432,
-    ["count"] = 9,
-    ["health"] = 15369884,
-    ["ignoreFortified"] = true,
-    ["scale"] = 1,
-    ["displayId"] = 39391,
-    ["iconTexture"] = 135735,
-    ["creatureType"] = "Humanoid",
-    ["level"] = 121,
-    ["characteristics"] = {
-      ["Taunt"] = true,
-    },
-    ["spells"] = {
-      [290027] = {
-      },
-      [302415] = {
-      },
-      [303632] = {
-      },
-    },
-    ["clones"] = {
-      [1] = {
-        ["x"] = 441.02302432584,
-        ["y"] = -146.98517876452,
-        ["g"] = 8,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [1] = true,
-          [4] = true,
-          [7] = true,
-          [10] = true,
-        },
-      },
-      [2] = {
-        ["x"] = 334.90611554276,
-        ["y"] = -183.71722324079,
-        ["g"] = 20,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [1] = true,
-          [4] = true,
-          [7] = true,
-          [10] = true,
-        },
-      },
-      [3] = {
-        ["x"] = 288.21352340301,
-        ["y"] = -298.05104820765,
-        ["g"] = 37,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [1] = true,
-          [4] = true,
-          [7] = true,
-          [10] = true,
-        },
-      },
-      [4] = {
-        ["x"] = 207.19004764257,
-        ["y"] = -251.49924161924,
-        ["g"] = 45,
-        ["sublevel"] = 2,
-        ["week"] = {
-          [1] = true,
-          [4] = true,
-          [7] = true,
-          [10] = true,
-        },
-      },
-      [5] = {
-        ["x"] = 421.65808117858,
-        ["y"] = -99.337303980722,
-        ["g"] = 79,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [2] = true,
-          [3] = true,
-          [5] = true,
-          [6] = true,
-          [8] = true,
-          [9] = true,
-          [11] = true,
-          [12] = true,
-        },
-      },
-      [6] = {
-        ["x"] = 346.49972202917,
-        ["y"] = -234.95956308365,
-        ["g"] = 18,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [2] = true,
-          [5] = true,
-          [8] = true,
-          [11] = true,
-        },
-      },
-      [7] = {
-        ["x"] = 285.12070097385,
-        ["y"] = -159.16606247148,
-        ["g"] = 25,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [2] = true,
-          [5] = true,
-          [8] = true,
-          [11] = true,
-        },
-      },
-      [8] = {
-        ["x"] = 460.46093260814,
-        ["y"] = -185.65608107269,
-        ["g"] = 9,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [3] = true,
-          [6] = true,
-          [9] = true,
-          [12] = true,
-        },
-      },
-      [9] = {
-        ["x"] = 378.14977087516,
-        ["y"] = -199.0259323507,
-        ["g"] = 15,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [3] = true,
-          [6] = true,
-          [9] = true,
-          [12] = true,
-        },
-      },
-      [10] = {
-        ["x"] = 241.46159384868,
-        ["y"] = -199.00336481081,
-        ["g"] = 27,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [3] = true,
-          [6] = true,
-          [9] = true,
-          [12] = true,
-        },
-      },
-      [11] = {
-        ["x"] = 327.69269173714,
-        ["y"] = -146.88820603051,
-        ["g"] = 22,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [3] = true,
-          [6] = true,
-          [9] = true,
-          [12] = true,
-        },
-      },
-      [12] = {
-        ["x"] = 250.79577094819,
-        ["y"] = -286.62478040698,
-        ["g"] = 35,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [3] = true,
-          [6] = true,
-          [9] = true,
-          [12] = true,
-        },
-      },
-      [13] = {
-        ["x"] = 429.48303623861,
-        ["y"] = -435.35210902619,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [3] = true,
-          [6] = true,
-          [9] = true,
-          [12] = true,
-        },
-      },
-      [14] = {
-        ["x"] = 530.50143481678,
-        ["y"] = -283.77997186582,
-        ["sublevel"] = 2,
-        ["week"] = {
-          [3] = true,
-          [6] = true,
-          [9] = true,
-          [12] = true,
-        },
-      },
-    },
-  },
-  [14] = {
     ["name"] = "Brother Ironhull",
     ["id"] = 134063,
     ["count"] = 0,
@@ -2191,7 +1882,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [15] = {
+  [14] = {
     ["name"] = "Deepsea Ritualist",
     ["id"] = 134417,
     ["count"] = 12,
@@ -2243,7 +1934,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [16] = {
+  [15] = {
     ["name"] = "Dredged Sailor",
     ["id"] = 139626,
     ["count"] = 1,
@@ -2391,7 +2082,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [17] = {
+  [16] = {
     ["name"] = "Tidesage Enforcer",
     ["id"] = 134338,
     ["count"] = 9,
@@ -2522,7 +2213,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [18] = {
+  [17] = {
     ["name"] = "Drowned Depthbringer",
     ["id"] = 134418,
     ["count"] = 9,
@@ -2600,7 +2291,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [19] = {
+  [18] = {
     ["name"] = "Abyssal Cultist",
     ["id"] = 134514,
     ["count"] = 9,
@@ -2739,7 +2430,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [20] = {
+  [19] = {
     ["name"] = "Colossal Tentacle",
     ["id"] = 136353,
     ["count"] = 10,
@@ -2771,7 +2462,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [21] = {
+  [20] = {
     ["name"] = "Abyss Dweller",
     ["id"] = 134423,
     ["count"] = 1,
@@ -3059,7 +2750,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [22] = {
+  [21] = {
     ["name"] = "Lord Stormsong",
     ["id"] = 134060,
     ["count"] = 0,
@@ -3096,7 +2787,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [23] = {
+  [22] = {
     ["name"] = "Abyssal Eel",
     ["id"] = 140038,
     ["count"] = 2,
@@ -3341,7 +3032,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [24] = {
+  [23] = {
     ["name"] = "Sunken Denizen",
     ["id"] = 136295,
     ["count"] = 13,
@@ -3371,7 +3062,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [25] = {
+  [24] = {
     ["name"] = "Forgotten Denizen",
     ["id"] = 136297,
     ["count"] = 9,
@@ -3405,7 +3096,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [26] = {
+  [25] = {
     ["name"] = "Vol'zith the Whisperer",
     ["id"] = 134069,
     ["count"] = 0,
@@ -3442,7 +3133,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [27] = {
+  [26] = {
     ["name"] = "Galecaller Faye",
     ["id"] = 134058,
     ["count"] = 0,
@@ -3473,557 +3164,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["y"] = -212.42248751286,
         ["g"] = 54,
         ["sublevel"] = 1,
-      },
-    },
-  },
-  [28] = {
-    ["name"] = "Emissary of the Tides",
-    ["id"] = 155434,
-    ["count"] = 9,
-    ["health"] = 614795,
-    ["ignoreFortified"] = true,
-    ["scale"] = 1,
-    ["displayId"] = 39391,
-    ["iconTexture"] = 132315,
-    ["creatureType"] = "Humanoid",
-    ["level"] = 120,
-    ["characteristics"] = {
-      ["Taunt"] = true,
-    },
-    ["spells"] = {
-      [302415] = {
-      },
-      [302417] = {
-      },
-      [302418] = {
-      },
-    },
-    ["clones"] = {
-      [1] = {
-        ["x"] = 414.07284468539,
-        ["y"] = -58.264875127202,
-        ["g"] = 2,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [1] = true,
-          [4] = true,
-          [7] = true,
-          [10] = true,
-        },
-        ["infested"] = {
-        },
-      },
-      [2] = {
-        ["x"] = 458.9271564991,
-        ["y"] = -187.21658453536,
-        ["g"] = 57,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [1] = true,
-          [4] = true,
-          [7] = true,
-          [10] = true,
-        },
-      },
-      [3] = {
-        ["x"] = 241.79309313123,
-        ["y"] = -192.08408130241,
-        ["g"] = 27,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [1] = true,
-          [4] = true,
-          [7] = true,
-          [10] = true,
-        },
-      },
-      [4] = {
-        ["x"] = 436.14115446208,
-        ["y"] = -116.19949766712,
-        ["g"] = 80,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [2] = true,
-          [5] = true,
-          [8] = true,
-          [11] = true,
-        },
-      },
-      [5] = {
-        ["x"] = 400.27856277003,
-        ["y"] = -118.78575504259,
-        ["g"] = 81,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [2] = true,
-          [5] = true,
-          [8] = true,
-          [11] = true,
-        },
-      },
-      [6] = {
-        ["x"] = 378.01587776818,
-        ["y"] = -199.78643402212,
-        ["g"] = 15,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [2] = true,
-          [5] = true,
-          [8] = true,
-          [11] = true,
-        },
-      },
-      [7] = {
-        ["x"] = 288.05349437406,
-        ["y"] = -296.02940052848,
-        ["g"] = 37,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [2] = true,
-          [5] = true,
-          [8] = true,
-          [11] = true,
-        },
-      },
-      [8] = {
-        ["x"] = 429.91179719099,
-        ["y"] = -441.97711024194,
-        ["g"] = 42,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [2] = true,
-          [5] = true,
-          [8] = true,
-          [11] = true,
-        },
-      },
-      [9] = {
-        ["x"] = 220.56202432903,
-        ["y"] = -216.0057002051,
-        ["g"] = 44,
-        ["sublevel"] = 2,
-        ["week"] = {
-          [2] = true,
-          [5] = true,
-          [8] = true,
-          [11] = true,
-        },
-      },
-      [10] = {
-        ["x"] = 207.88439709963,
-        ["y"] = -251.98796107641,
-        ["g"] = 45,
-        ["sublevel"] = 2,
-        ["week"] = {
-          [2] = true,
-          [3] = true,
-          [5] = true,
-          [6] = true,
-          [8] = true,
-          [9] = true,
-          [11] = true,
-          [12] = true,
-        },
-      },
-      [11] = {
-        ["x"] = 424.33129165555,
-        ["y"] = -151.4620218637,
-        ["g"] = 6,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [3] = true,
-          [6] = true,
-          [9] = true,
-          [12] = true,
-        },
-      },
-      [12] = {
-        ["x"] = 285.54196894203,
-        ["y"] = -158.38247160855,
-        ["g"] = 25,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [3] = true,
-          [6] = true,
-          [9] = true,
-          [12] = true,
-        },
-      },
-    },
-  },
-  [29] = {
-    ["name"] = "Void-Touched Emissary",
-    ["id"] = 155433,
-    ["count"] = 9,
-    ["health"] = 999042,
-    ["ignoreFortified"] = true,
-    ["scale"] = 1,
-    ["stealthDetect"] = true,
-    ["displayId"] = 39391,
-    ["iconTexture"] = 132886,
-    ["creatureType"] = "Humanoid",
-    ["level"] = 122,
-    ["characteristics"] = {
-      ["Taunt"] = true,
-    },
-    ["spells"] = {
-      [302415] = {
-      },
-      [302419] = {
-      },
-      [302420] = {
-      },
-      [302421] = {
-      },
-    },
-    ["clones"] = {
-      [1] = {
-        ["x"] = 411.02835221941,
-        ["y"] = -154.28379528988,
-        ["g"] = 6,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [1] = true,
-          [4] = true,
-          [7] = true,
-          [10] = true,
-        },
-      },
-      [2] = {
-        ["x"] = 393.59059953832,
-        ["y"] = -189.87463648294,
-        ["g"] = 56,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [1] = true,
-          [4] = true,
-          [7] = true,
-          [10] = true,
-        },
-      },
-      [3] = {
-        ["x"] = 339.57535772991,
-        ["y"] = -217.49260873194,
-        ["g"] = 19,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [1] = true,
-          [4] = true,
-          [7] = true,
-          [10] = true,
-        },
-      },
-      [4] = {
-        ["x"] = 284.81297321762,
-        ["y"] = -160.27065922359,
-        ["g"] = 25,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [1] = true,
-          [4] = true,
-          [7] = true,
-          [10] = true,
-        },
-      },
-      [5] = {
-        ["x"] = 386.42581832808,
-        ["y"] = -413.67296966993,
-        ["g"] = 40,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [1] = true,
-          [4] = true,
-          [7] = true,
-          [10] = true,
-        },
-      },
-      [6] = {
-        ["x"] = 566.99061858754,
-        ["y"] = -223.83789076086,
-        ["g"] = 50,
-        ["sublevel"] = 2,
-        ["week"] = {
-          [1] = true,
-          [4] = true,
-          [7] = true,
-          [10] = true,
-        },
-      },
-      [7] = {
-        ["x"] = 444.00423900297,
-        ["y"] = -172.36082799716,
-        ["g"] = 10,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [2] = true,
-          [5] = true,
-          [8] = true,
-          [11] = true,
-        },
-      },
-      [8] = {
-        ["x"] = 327.33995472752,
-        ["y"] = -148.02851312277,
-        ["g"] = 22,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [2] = true,
-          [5] = true,
-          [8] = true,
-          [11] = true,
-        },
-      },
-      [9] = {
-        ["x"] = 280.456362085,
-        ["y"] = -355.15646717786,
-        ["g"] = 39,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [2] = true,
-          [5] = true,
-          [8] = true,
-          [11] = true,
-        },
-      },
-      [10] = {
-        ["x"] = 433.35579521398,
-        ["y"] = -192.68731577298,
-        ["g"] = 11,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [3] = true,
-          [6] = true,
-          [9] = true,
-          [12] = true,
-        },
-      },
-      [11] = {
-        ["x"] = 333.08160548665,
-        ["y"] = -178.47419147275,
-        ["g"] = 20,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [3] = true,
-          [6] = true,
-          [9] = true,
-          [12] = true,
-        },
-      },
-      [12] = {
-        ["x"] = 280.08317587993,
-        ["y"] = -320.29158211182,
-        ["g"] = 38,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [3] = true,
-          [6] = true,
-          [9] = true,
-          [12] = true,
-        },
-      },
-    },
-  },
-  [30] = {
-    ["name"] = "Samh'rek, Beckoner of Chaos",
-    ["id"] = 161243,
-    ["count"] = 9,
-    ["teemingCount"] = 12,
-    ["health"] = 2151786,
-    ["scale"] = 1.4,
-    ["stealthDetect"] = true,
-    ["displayId"] = 90742,
-    ["creatureType"] = "Aberration",
-    ["level"] = 122,
-    ["corrupted"] = true,
-    ["characteristics"] = {
-      ["Taunt"] = true,
-    },
-    ["spells"] = {
-      [314397] = {
-      },
-      [314477] = {
-      },
-      [314483] = {
-      },
-      [314531] = {
-      },
-    },
-    ["clones"] = {
-      [1] = {
-        ["x"] = 251.24311775575,
-        ["y"] = -223.77517289712,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [1] = true,
-          [2] = true,
-          [3] = true,
-          [4] = true,
-          [5] = true,
-          [6] = true,
-          [7] = true,
-          [8] = true,
-          [9] = true,
-          [10] = true,
-          [11] = true,
-          [12] = true,
-        },
-      },
-    },
-  },
-  [31] = {
-    ["name"] = "Urg'roth, Breaker of Heroes",
-    ["id"] = 161124,
-    ["count"] = 9,
-    ["teemingCount"] = 12,
-    ["health"] = 2151786,
-    ["scale"] = 1.2,
-    ["stealthDetect"] = true,
-    ["displayId"] = 89415,
-    ["creatureType"] = "Aberration",
-    ["level"] = 122,
-    ["corrupted"] = true,
-    ["characteristics"] = {
-      ["Taunt"] = true,
-    },
-    ["spells"] = {
-      [314308] = {
-      },
-      [314309] = {
-      },
-      [314387] = {
-      },
-      [314397] = {
-      },
-    },
-    ["clones"] = {
-      [1] = {
-        ["x"] = 347.78223275296,
-        ["y"] = -240.07051830855,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [1] = true,
-          [2] = true,
-          [3] = true,
-          [4] = true,
-          [5] = true,
-          [6] = true,
-          [7] = true,
-          [8] = true,
-          [9] = true,
-          [10] = true,
-          [11] = true,
-          [12] = true,
-        },
-      },
-    },
-  },
-  [32] = {
-    ["name"] = "Voidweaver Mal'thir",
-    ["id"] = 161241,
-    ["count"] = 9,
-    ["teemingCount"] = 12,
-    ["health"] = 2151786,
-    ["scale"] = 1.2,
-    ["stealthDetect"] = true,
-    ["displayId"] = 91910,
-    ["creatureType"] = "Beast",
-    ["level"] = 122,
-    ["corrupted"] = true,
-    ["characteristics"] = {
-      ["Taunt"] = true,
-    },
-    ["spells"] = {
-      [314397] = {
-      },
-      [314406] = {
-      },
-      [314411] = {
-      },
-      [314463] = {
-      },
-      [314467] = {
-      },
-    },
-    ["clones"] = {
-      [1] = {
-        ["x"] = 423.0286759078,
-        ["y"] = -98.177785340896,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [1] = true,
-          [2] = true,
-          [5] = true,
-          [6] = true,
-          [9] = true,
-          [10] = true,
-        },
-      },
-      [2] = {
-        ["x"] = 362.15060099513,
-        ["y"] = -402.43801187838,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [3] = true,
-          [4] = true,
-          [7] = true,
-          [8] = true,
-          [11] = true,
-          [12] = true,
-        },
-      },
-    },
-  },
-  [33] = {
-    ["name"] = "Blood of the Corruptor",
-    ["id"] = 161244,
-    ["count"] = 9,
-    ["teemingCount"] = 12,
-    ["health"] = 2151786,
-    ["scale"] = 1.2,
-    ["stealthDetect"] = true,
-    ["displayId"] = 92229,
-    ["creatureType"] = "Aberration",
-    ["level"] = 122,
-    ["corrupted"] = true,
-    ["characteristics"] = {
-      ["Taunt"] = true,
-    },
-    ["spells"] = {
-      [314397] = {
-      },
-      [314565] = {
-      },
-      [314566] = {
-      },
-      [314592] = {
-      },
-    },
-    ["clones"] = {
-      [1] = {
-        ["x"] = 363.08384542554,
-        ["y"] = -401.84324407579,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [1] = true,
-          [2] = true,
-          [5] = true,
-          [6] = true,
-          [9] = true,
-          [10] = true,
-        },
-      },
-      [2] = {
-        ["x"] = 423.14294854196,
-        ["y"] = -98.218981922135,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [3] = true,
-          [4] = true,
-          [7] = true,
-          [8] = true,
-          [11] = true,
-          [12] = true,
-        },
       },
     },
   },

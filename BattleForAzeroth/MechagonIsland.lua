@@ -464,126 +464,6 @@ MDT.mapPOIs[dungeonIndex] = {
       ["graveyardDescription"] = "",
     },
     [50] = {
-      ["template"] = "VignettePinTemplate",
-      ["type"] = "nyalothaSpire",
-      ["x"] = 534.93111665765,
-      ["y"] = -172.55633390924,
-      ["scale"] = 0.7,
-      ["index"] = 1,
-      ["npcId"] = 161124,
-      ["tooltipText"] = "Brutal Spire of Ny'alotha",
-      ["weeks"] = {
-        [1] = true,
-        [2] = true,
-        [3] = true,
-        [4] = true,
-        [5] = true,
-        [6] = true,
-        [7] = true,
-        [8] = true,
-        [9] = true,
-        [10] = true,
-        [11] = true,
-        [12] = true,
-      },
-    },
-    [51] = {
-      ["template"] = "VignettePinTemplate",
-      ["type"] = "nyalothaSpire",
-      ["x"] = 527.67937674097,
-      ["y"] = -327.16981399342,
-      ["scale"] = 0.7,
-      ["index"] = 2,
-      ["npcId"] = 161241,
-      ["tooltipText"] = "Cursed Spire of Ny'alotha",
-      ["weeks"] = {
-        [1] = true,
-        [2] = true,
-        [3] = true,
-        [4] = true,
-        [5] = true,
-        [6] = true,
-        [7] = true,
-        [8] = true,
-        [9] = true,
-        [10] = true,
-        [11] = true,
-        [12] = true,
-      },
-    },
-    [52] = {
-      ["template"] = "VignettePinTemplate",
-      ["type"] = "nyalothaSpire",
-      ["x"] = 576.43749229974,
-      ["y"] = -268.50623130873,
-      ["scale"] = 0.7,
-      ["index"] = 3,
-      ["npcId"] = 161244,
-      ["tooltipText"] = "Defiled Spire of Ny'alotha",
-      ["weeks"] = {
-        [1] = true,
-        [2] = true,
-        [5] = true,
-        [6] = true,
-        [9] = true,
-        [10] = true,
-      },
-    },
-    [53] = {
-      ["template"] = "VignettePinTemplate",
-      ["type"] = "nyalothaSpire",
-      ["x"] = 483.8464170069,
-      ["y"] = -289.37552297437,
-      ["scale"] = 0.7,
-      ["index"] = 4,
-      ["npcId"] = 161243,
-      ["tooltipText"] = "Entropic Spire of Ny'alotha",
-      ["weeks"] = {
-        [1] = true,
-        [2] = true,
-        [5] = true,
-        [6] = true,
-        [9] = true,
-        [10] = true,
-      },
-    },
-    [54] = {
-      ["template"] = "VignettePinTemplate",
-      ["type"] = "nyalothaSpire",
-      ["x"] = 577.99812590181,
-      ["y"] = -270.61464902703,
-      ["scale"] = 0.7,
-      ["index"] = 5,
-      ["npcId"] = 161243,
-      ["tooltipText"] = "Entropic Spire of Ny'alotha",
-      ["weeks"] = {
-        [3] = true,
-        [4] = true,
-        [7] = true,
-        [8] = true,
-        [11] = true,
-        [12] = true,
-      },
-    },
-    [55] = {
-      ["template"] = "VignettePinTemplate",
-      ["type"] = "nyalothaSpire",
-      ["x"] = 483.39369558387,
-      ["y"] = -289.7184787073,
-      ["scale"] = 0.7,
-      ["index"] = 6,
-      ["npcId"] = 161244,
-      ["tooltipText"] = "Defiled Spire of Ny'alotha",
-      ["weeks"] = {
-        [3] = true,
-        [4] = true,
-        [7] = true,
-        [8] = true,
-        [11] = true,
-        [12] = true,
-      },
-    },
-    [56] = {
       ["template"] = "MapLinkPinTemplate",
       ["type"] = "mechagonBot",
       ["x"] = 534.95029943284,
@@ -593,7 +473,7 @@ MDT.mapPOIs[dungeonIndex] = {
       ["textAnchor"] = "RIGHT",
       ["textAnchorTo"] = "LEFT",
     },
-    [57] = {
+    [51] = {
       ["template"] = "MapLinkPinTemplate",
       ["type"] = "mechagonBot",
       ["x"] = 635.97784011762,
@@ -670,212 +550,6 @@ MDT.mapPOIs[dungeonIndex] = {
 
 MDT.dungeonEnemies[dungeonIndex] = {
   [1] = {
-    ["name"] = "Samh'rek, Beckoner of Chaos",
-    ["id"] = 161243,
-    ["count"] = 4,
-    ["teemingCount"] = 6,
-    ["health"] = 1409996,
-    ["scale"] = 1.4,
-    ["stealthDetect"] = true,
-    ["displayId"] = 90742,
-    ["creatureType"] = "Aberration",
-    ["level"] = 122,
-    ["corrupted"] = true,
-    ["characteristics"] = {
-      ["Taunt"] = true,
-    },
-    ["spells"] = {
-      [314397] = {
-      },
-      [314477] = {
-      },
-      [314478] = {
-      },
-      [314483] = {
-      },
-      [314531] = {
-      },
-    },
-    ["clones"] = {
-      [1] = {
-        ["x"] = 489.18105212439,
-        ["y"] = -286.38534747172,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [1] = true,
-          [2] = true,
-          [5] = true,
-          [6] = true,
-          [9] = true,
-          [10] = true,
-        },
-      },
-      [2] = {
-        ["x"] = 571.56585261331,
-        ["y"] = -267.53421166375,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [3] = true,
-          [4] = true,
-          [7] = true,
-          [8] = true,
-          [11] = true,
-          [12] = true,
-        },
-      },
-    },
-  },
-  [2] = {
-    ["name"] = "Urg'roth, Breaker of Heroes",
-    ["id"] = 161124,
-    ["count"] = 4,
-    ["teemingCount"] = 6,
-    ["health"] = 1510710,
-    ["scale"] = 1.4,
-    ["stealthDetect"] = true,
-    ["displayId"] = 89415,
-    ["creatureType"] = "Aberration",
-    ["level"] = 122,
-    ["corrupted"] = true,
-    ["characteristics"] = {
-      ["Taunt"] = true,
-    },
-    ["spells"] = {
-      [314308] = {
-      },
-      [314309] = {
-      },
-      [314387] = {
-      },
-      [314397] = {
-      },
-    },
-    ["clones"] = {
-      [1] = {
-        ["x"] = 539.63981644213,
-        ["y"] = -166.44183844343,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [1] = true,
-          [2] = true,
-          [3] = true,
-          [4] = true,
-          [5] = true,
-          [6] = true,
-          [7] = true,
-          [8] = true,
-          [9] = true,
-          [10] = true,
-          [11] = true,
-          [12] = true,
-        },
-      },
-    },
-  },
-  [3] = {
-    ["name"] = "Voidweaver Mal'thir",
-    ["id"] = 161241,
-    ["count"] = 4,
-    ["teemingCount"] = 6,
-    ["health"] = 1309282,
-    ["scale"] = 1.4,
-    ["stealthDetect"] = true,
-    ["displayId"] = 91910,
-    ["creatureType"] = "Beast",
-    ["level"] = 122,
-    ["corrupted"] = true,
-    ["characteristics"] = {
-      ["Taunt"] = true,
-    },
-    ["spells"] = {
-      [314397] = {
-      },
-      [314406] = {
-      },
-      [314411] = {
-      },
-      [314463] = {
-      },
-      [314467] = {
-      },
-    },
-    ["clones"] = {
-      [1] = {
-        ["x"] = 522.53078887932,
-        ["y"] = -323.26024782574,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [1] = true,
-          [2] = true,
-          [3] = true,
-          [4] = true,
-          [5] = true,
-          [6] = true,
-          [7] = true,
-          [8] = true,
-          [9] = true,
-          [10] = true,
-          [11] = true,
-          [12] = true,
-        },
-      },
-    },
-  },
-  [4] = {
-    ["name"] = "Blood of the Corruptor",
-    ["id"] = 161244,
-    ["count"] = 4,
-    ["teemingCount"] = 6,
-    ["health"] = 1409996,
-    ["scale"] = 1.4,
-    ["stealthDetect"] = true,
-    ["displayId"] = 92229,
-    ["creatureType"] = "Aberration",
-    ["level"] = 122,
-    ["corrupted"] = true,
-    ["characteristics"] = {
-      ["Taunt"] = true,
-    },
-    ["spells"] = {
-      [314397] = {
-      },
-      [314565] = {
-      },
-      [314566] = {
-      },
-      [314592] = {
-      },
-    },
-    ["clones"] = {
-      [1] = {
-        ["x"] = 571.39257884157,
-        ["y"] = -266.39888201734,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [1] = true,
-          [2] = true,
-          [5] = true,
-          [6] = true,
-          [9] = true,
-          [10] = true,
-        },
-      },
-      [2] = {
-        ["x"] = 489.03442026452,
-        ["y"] = -285.30892438252,
-        ["sublevel"] = 1,
-        ["week"] = {
-          [3] = true,
-          [4] = true,
-          [7] = true,
-          [8] = true,
-          [11] = true,
-          [12] = true,
-        },
-      },
-    },
-  },
-  [5] = {
     ["name"] = "Scrapbone Trashtosser",
     ["id"] = 150142,
     ["count"] = 3,
@@ -993,7 +667,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [6] = {
+  [2] = {
     ["name"] = "Pistonhead Blaster",
     ["id"] = 150250,
     ["count"] = 3,
@@ -1103,7 +777,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [7] = {
+  [3] = {
     ["name"] = "Pistonhead Scrapper",
     ["id"] = 150249,
     ["count"] = 3,
@@ -1190,7 +864,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [8] = {
+  [4] = {
     ["name"] = "Scrapbone Grinder",
     ["id"] = 150143,
     ["count"] = 3,
@@ -1291,7 +965,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [9] = {
+  [5] = {
     ["name"] = "Scrapbone Grunter",
     ["id"] = 150547,
     ["count"] = 1,
@@ -1589,7 +1263,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [10] = {
+  [6] = {
     ["name"] = "Scrapbone Shaman",
     ["id"] = 150146,
     ["count"] = 3,
@@ -1693,7 +1367,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [11] = {
+  [7] = {
     ["name"] = "Malfunctioning Scrapbot",
     ["id"] = 152009,
     ["count"] = 5,
@@ -1769,7 +1443,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [12] = {
+  [8] = {
     ["name"] = "Weaponized Crawler",
     ["id"] = 150253,
     ["count"] = 10,
@@ -1921,7 +1595,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [13] = {
+  [9] = {
     ["name"] = "Scraphound",
     ["id"] = 150254,
     ["count"] = 3,
@@ -2014,7 +1688,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [14] = {
+  [10] = {
     ["name"] = "Pistonhead Mechanic",
     ["id"] = 150251,
     ["count"] = 3,
@@ -2105,7 +1779,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [15] = {
+  [11] = {
     ["name"] = "Saurolisk Bonenipper",
     ["id"] = 150154,
     ["count"] = 3,
@@ -2206,7 +1880,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [16] = {
+  [12] = {
     ["name"] = "Scrapbone Bully",
     ["id"] = 150160,
     ["count"] = 4,
@@ -2320,7 +1994,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [17] = {
+  [13] = {
     ["name"] = "Heavy Scrapbot",
     ["id"] = 150276,
     ["count"] = 5,
@@ -2369,7 +2043,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [18] = {
+  [14] = {
     ["name"] = "Naeno Megacrash",
     ["id"] = 153755,
     ["count"] = 0,
@@ -2407,7 +2081,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [19] = {
+  [15] = {
     ["name"] = "Trixie Tazer",
     ["id"] = 150712,
     ["count"] = 0,
@@ -2445,7 +2119,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [20] = {
+  [16] = {
     ["name"] = "King Gobbamak",
     ["id"] = 150159,
     ["count"] = 0,
@@ -2480,7 +2154,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [21] = {
+  [17] = {
     ["name"] = "Gnome-Eating Slime",
     ["id"] = 150195,
     ["count"] = 3,
@@ -2594,7 +2268,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [22] = {
+  [18] = {
     ["name"] = "Toxic Lurker",
     ["id"] = 150169,
     ["count"] = 4,
@@ -2726,7 +2400,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [23] = {
+  [19] = {
     ["name"] = "Mechagon Renormalizer",
     ["id"] = 150297,
     ["count"] = 4,
@@ -2790,7 +2464,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [24] = {
+  [20] = {
     ["name"] = "Mechagon Trooper",
     ["id"] = 155094,
     ["count"] = 3,
@@ -2924,7 +2598,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [25] = {
+  [21] = {
     ["name"] = "Slime Elemental",
     ["id"] = 150165,
     ["count"] = 4,
@@ -3043,7 +2717,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [26] = {
+  [22] = {
     ["name"] = "Anodized Coilbearer",
     ["id"] = 155090,
     ["count"] = 4,
@@ -3156,7 +2830,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [27] = {
+  [23] = {
     ["name"] = "Mechagon Cavalry",
     ["id"] = 150292,
     ["count"] = 5,
@@ -3324,7 +2998,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [28] = {
+  [24] = {
     ["name"] = "Mechagon Prowler",
     ["id"] = 150293,
     ["count"] = 3,
@@ -3460,7 +3134,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [29] = {
+  [25] = {
     ["name"] = "Toxic Monstrosity",
     ["id"] = 150168,
     ["count"] = 5,
@@ -3550,7 +3224,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [30] = {
+  [26] = {
     ["name"] = "Gunker",
     ["id"] = 150222,
     ["count"] = 0,
@@ -3587,7 +3261,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [31] = {
+  [27] = {
     ["name"] = "Tank Buster MK1",
     ["id"] = 150295,
     ["count"] = 0,
@@ -3619,7 +3293,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [32] = {
+  [28] = {
     ["name"] = "HK-8 Aerial Oppression Unit",
     ["id"] = 150190,
     ["count"] = 0,
@@ -3662,7 +3336,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [33] = {
+  [29] = {
     ["name"] = "Nathrezim Infiltrator",
     ["id"] = 189878,
     ["count"] = 7,
@@ -3925,7 +3599,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
-  [34] = {
+  [30] = {
     ["name"] = "Zul'gamux",
     ["id"] = 190128,
     ["count"] = 21,
