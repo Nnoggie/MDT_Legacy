@@ -2,7 +2,7 @@
 local addon = select(2, ...)
 local MDT = MDT
 
-if not addon:GenericVersionCheck("MythicDungeonTools", "5.1.0") then
+if not addon:GenericVersionCheck("MythicDungeonTools", "5.6.0") then
   return
 end
 
