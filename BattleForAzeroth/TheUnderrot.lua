@@ -50,42 +50,6 @@ MDT.mapPOIs[dungeonIndex] = {
       ["x"] = 467.89305691257,
       ["y"] = -289.02272233371,
     },
-    [3] = {
-      ["template"] = "MapLinkPinTemplate",
-      ["type"] = "generalNote",
-      ["x"] = 356.40366885942,
-      ["y"] = -394.39160333787,
-      ["difficulty"] = 10,
-      ["season"] = 3,
-      ["formattedText"] = {
-        [1] = "underrotVoidNote",
-        [2] = "\n",
-      },
-      ["weeks"] = {
-        [1] = true,
-        [4] = true,
-        [7] = true,
-        [10] = true,
-      },
-    },
-    [4] = {
-      ["template"] = "MapLinkPinTemplate",
-      ["type"] = "generalNote",
-      ["x"] = 397.59771146364,
-      ["y"] = -403.4998312742,
-      ["difficulty"] = 10,
-      ["season"] = 3,
-      ["formattedText"] = {
-        [1] = "underrotVoidNote",
-        [2] = "\n",
-      },
-      ["weeks"] = {
-        [1] = true,
-        [4] = true,
-        [7] = true,
-        [10] = true,
-      },
-    },
   },
   [2] = {
     [1] = {
