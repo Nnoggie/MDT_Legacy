@@ -14,7 +14,7 @@ MDT.mapInfo[dungeonIndex] = {
 
 MDT.dungeonMaps[dungeonIndex] = {
   [0] = "",
-  [1] = { customTextures = 'Interface\\AddOns\\'..addonName..'\\Legion\\Textures\\LowerKarazhan' }
+  [1] = { customTextures = 'Interface\\AddOns\\' .. addonName .. '\\Legion\\Textures\\LowerKarazhan' }
 }
 
 MDT.dungeonSubLevels[dungeonIndex] = {
@@ -4090,38 +4090,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [36] = {
-    ["name"] = "Nathrezim Infiltrator",
-    ["id"] = 189878,
-    ["count"] = 4,
-    ["health"] = 239096,
-    ["scale"] = 1,
-    ["displayId"] = 101016,
-    ["creatureType"] = "Demon",
-    ["level"] = 61,
-    ["characteristics"] = {
-      ["Taunt"] = true,
-    },
-    ["spells"] = {
-      [373364] = {
-      },
-      [373370] = {
-      },
-      [373391] = {
-      },
-      [373429] = {
-      },
-    },
-    ["clones"] = {
-      [10] = {
-        ["x"] = 543.47685164667,
-        ["y"] = 10.540106110327,
-        ["g"] = 32,
-        ["sublevel"] = 1,
-        ["scale"] = 1,
-      },
-    },
-  },
-  [37] = {
     ["name"] = "Spectral Patron",
     ["id"] = 116550,
     ["count"] = 3,

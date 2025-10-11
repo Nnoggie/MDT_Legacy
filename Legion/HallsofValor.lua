@@ -16,7 +16,7 @@ end
 
 MDT.dungeonMaps[dungeonIndex] = {
   [0] = "",
-  [1] = { customTextures = 'Interface\\AddOns\\'..addonName..'\\Legion\\Textures\\HallsOfValor' }
+  [1] = { customTextures = 'Interface\\AddOns\\' .. addonName .. '\\Legion\\Textures\\HallsOfValor' }
 }
 MDT.dungeonSubLevels[dungeonIndex] = {
   [1] = L["Halls of Valor"]
@@ -26,6 +26,21 @@ MDT.mapPOIs[dungeonIndex] = {
 };
 
 MDT.dungeonTotalCount[dungeonIndex] = { normal = 270, teeming = 1000, teemingEnabled = true }
+
+
+
+MDT.mapPOIs[dungeonIndex] = {
+  [1] = {
+    [1] = {
+      ["template"] = "MapLinkPinTemplate",
+      ["type"] = "dungeonEntrance",
+      ["x"] = 588.03242204281,
+      ["y"] = -60.531568267781,
+    },
+  },
+};
+
+
 
 MDT.dungeonEnemies[dungeonIndex] = {
   [1] = {

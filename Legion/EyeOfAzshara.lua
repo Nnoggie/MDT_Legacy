@@ -19,6 +19,20 @@ MDT.dungeonSubLevels[dungeonIndex] = {
 }
 MDT.dungeonTotalCount[dungeonIndex] = { normal = 206, teeming = 242, teemingEnabled = true }
 
+
+MDT.mapPOIs[dungeonIndex] = {
+  [1] = {
+    [1] = {
+      ["template"] = "MapLinkPinTemplate",
+      ["type"] = "dungeonEntrance",
+      ["x"] = 417.89011134939,
+      ["y"] = -498.0324036442,
+    },
+  },
+};
+
+
+
 MDT.dungeonEnemies[dungeonIndex] = {
   [1] = {
     ["name"] = "Wandering Shellback",
