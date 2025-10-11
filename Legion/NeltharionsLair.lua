@@ -47,8 +47,15 @@ MDT.mapPOIs[dungeonIndex] = {
       ["y"] = -254.53547263744,
       ["graveyardDescription"] = "",
     },
+    [4] = {
+      ["template"] = "MapLinkPinTemplate",
+      ["type"] = "dungeonEntrance",
+      ["x"] = 732.68792601438,
+      ["y"] = -275.94725316427,
+    },
   },
 };
+
 
 MDT.dungeonEnemies[dungeonIndex] = {
   [1] = {

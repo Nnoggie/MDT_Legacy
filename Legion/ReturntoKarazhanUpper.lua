@@ -14,7 +14,7 @@ MDT.mapInfo[dungeonIndex] = {
 
 MDT.dungeonMaps[dungeonIndex] = {
   [0] = "",
-  [1] = { customTextures = 'Interface\\AddOns\\'..addonName..'\\Legion\\Textures\\UpperKarazhan' }
+  [1] = { customTextures = 'Interface\\AddOns\\' .. addonName .. '\\Legion\\Textures\\UpperKarazhan' }
 }
 
 MDT.dungeonSubLevels[dungeonIndex] = {
@@ -30,8 +30,15 @@ MDT.mapPOIs[dungeonIndex] = {
       ["y"] = -62.768256975879,
       ["text"] = "manaDevourerNote",
     },
+    [2] = {
+      ["template"] = "MapLinkPinTemplate",
+      ["type"] = "dungeonEntrance",
+      ["x"] = 352.46325812626,
+      ["y"] = -345.36401564462,
+    },
   },
 };
+
 
 MDT.dungeonEnemies[dungeonIndex] = {
   [1] = {

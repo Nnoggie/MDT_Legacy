@@ -13,7 +13,7 @@ MDT.mapInfo[dungeonIndex] = {
 
 MDT.dungeonMaps[dungeonIndex] = {
   [0] = "",
-  [1] = { customTextures = 'Interface\\AddOns\\'..addonName..'\\Legion\\Textures\\CathedralOfEternalNight' }
+  [1] = { customTextures = 'Interface\\AddOns\\' .. addonName .. '\\Legion\\Textures\\CathedralOfEternalNight' }
 }
 
 MDT.dungeonSubLevels[dungeonIndex] = {
@@ -21,6 +21,19 @@ MDT.dungeonSubLevels[dungeonIndex] = {
 }
 
 MDT.dungeonTotalCount[dungeonIndex] = { normal = 305, teeming = 335, teemingEnabled = true }
+
+MDT.mapPOIs[dungeonIndex] = {
+  [1] = {
+    [1] = {
+      ["template"] = "MapLinkPinTemplate",
+      ["type"] = "dungeonEntrance",
+      ["x"] = 188.10233545466,
+      ["y"] = -43.513116535018,
+    },
+  },
+};
+
+
 
 MDT.dungeonEnemies[dungeonIndex] = {
   [1] = {

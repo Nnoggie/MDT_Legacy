@@ -31,6 +31,19 @@ MDT.dungeonSubLevels[dungeonIndex] = {
 }
 MDT.dungeonTotalCount[dungeonIndex] = { normal = 190, teeming = 1000, teemingEnabled = true }
 
+MDT.mapPOIs[dungeonIndex] = {
+  [1] = {
+    [1] = {
+      ["template"] = "MapLinkPinTemplate",
+      ["type"] = "dungeonEntrance",
+      ["x"] = 361.86814622573,
+      ["y"] = -425.08130872553,
+    },
+  },
+};
+
+
+
 MDT.dungeonEnemies[dungeonIndex] = {
   [1] = {
     ["name"] = "Duskwatch Guard",

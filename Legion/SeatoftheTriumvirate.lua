@@ -20,6 +20,19 @@ MDT.dungeonSubLevels[dungeonIndex] = {
   [1] = L["Seat of the Triumvirate Sublevel"],
 }
 
+MDT.mapPOIs[dungeonIndex] = {
+  [1] = {
+    [1] = {
+      ["template"] = "MapLinkPinTemplate",
+      ["type"] = "dungeonEntrance",
+      ["x"] = 181.38459284119,
+      ["y"] = -499.4243713852,
+    },
+  },
+};
+
+
+
 MDT.dungeonEnemies[dungeonIndex] = {
   [1] = {
     ["name"] = "Void Discharge",

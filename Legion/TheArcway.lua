@@ -20,6 +20,19 @@ MDT.dungeonSubLevels[dungeonIndex] = {
 
 MDT.dungeonTotalCount[dungeonIndex] = { normal = 392, teeming = 466, teemingEnabled = true }
 
+MDT.mapPOIs[dungeonIndex] = {
+  [1] = {
+    [1] = {
+      ["template"] = "MapLinkPinTemplate",
+      ["type"] = "dungeonEntrance",
+      ["x"] = 405.30958075327,
+      ["y"] = -120.99119437184,
+    },
+  },
+};
+
+
+
 MDT.dungeonEnemies[dungeonIndex] = {
   [1] = {
     ["name"] = "Unstable Amalgamation",
@@ -30,6 +43,9 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["displayId"] = 33922,
     ["creatureType"] = "Aberration",
     ["level"] = 80,
+    ["characteristics"] = {
+      ["Taunt"] = true,
+    },
     ["spells"] = {
       [193938] = {
       },
@@ -160,6 +176,9 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["displayId"] = 27972,
     ["creatureType"] = "Beast",
     ["level"] = 80,
+    ["characteristics"] = {
+      ["Silence"] = true,
+    },
     ["spells"] = {
       [203592] = {
       },
@@ -456,6 +475,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["level"] = 80,
     ["characteristics"] = {
       ["Taunt"] = true,
+      ["Silence"] = true,
       ["Stun"] = true,
     },
     ["spells"] = {
@@ -731,6 +751,9 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["displayId"] = 70550,
     ["creatureType"] = "Undead",
     ["level"] = 81,
+    ["characteristics"] = {
+      ["Taunt"] = true,
+    },
     ["spells"] = {
       [211064] = {
       },
@@ -1027,7 +1050,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
         ["x"] = 244.52193781981,
         ["y"] = -364.41527976828,
         ["sublevel"] = 1,
-        ["patrolFacing"] = -0.19634954084936,
         ["patrol"] = {
           [1] = {
             ["x"] = 227.32399113798,
@@ -1166,6 +1188,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
             ["y"] = -364.41527976828,
           },
         },
+        ["patrolFacing"] = -0.19634954084936,
       },
     },
   },
@@ -1360,6 +1383,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["characteristics"] = {
       ["Taunt"] = true,
       ["Silence"] = true,
+      ["Stun"] = true,
     },
     ["spells"] = {
       [203593] = {
@@ -1548,6 +1572,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["creatureType"] = "Humanoid",
     ["level"] = 80,
     ["characteristics"] = {
+      ["Taunt"] = true,
       ["Stun"] = true,
     },
     ["spells"] = {
@@ -1650,6 +1675,9 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["displayId"] = 69416,
     ["creatureType"] = "Beast",
     ["level"] = 80,
+    ["characteristics"] = {
+      ["Taunt"] = true,
+    },
     ["spells"] = {
       [211501] = {
       },
@@ -1792,6 +1820,15 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["displayId"] = 65920,
     ["creatureType"] = "Beast",
     ["level"] = 80,
+    ["characteristics"] = {
+      ["Stun"] = true,
+    },
+    ["spells"] = {
+      [211543] = {
+      },
+      [224425] = {
+      },
+    },
     ["clones"] = {
       [1] = {
         ["x"] = 498.82290874527,
@@ -1876,6 +1913,10 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["displayId"] = 64693,
     ["creatureType"] = "Demon",
     ["level"] = 80,
+    ["characteristics"] = {
+      ["Taunt"] = true,
+      ["Silence"] = true,
+    },
     ["spells"] = {
       [211744] = {
       },
@@ -1980,6 +2021,8 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["level"] = 80,
     ["characteristics"] = {
       ["Taunt"] = true,
+      ["Silence"] = true,
+      ["Stun"] = true,
     },
     ["spells"] = {
       [211571] = {
@@ -2311,6 +2354,9 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["displayId"] = 39908,
     ["creatureType"] = "Demon",
     ["level"] = 81,
+    ["characteristics"] = {
+      ["Silence"] = true,
+    },
     ["spells"] = {
       [16856] = {
       },
@@ -2347,12 +2393,17 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["displayId"] = 21542,
     ["creatureType"] = "Demon",
     ["level"] = 81,
+    ["characteristics"] = {
+      ["Taunt"] = true,
+    },
     ["spells"] = {
       [211874] = {
       },
       [211875] = {
       },
       [211917] = {
+      },
+      [211921] = {
       },
     },
     ["clones"] = {
@@ -2433,7 +2484,6 @@ MDT.dungeonEnemies[dungeonIndex] = {
       [1] = {
         ["x"] = 329.28477214128,
         ["y"] = -433.29667076262,
-        ["g"] = 47,
         ["sublevel"] = 1,
       },
     },
@@ -2483,8 +2533,27 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["encounterID"] = 1500,
     ["clones"] = {
       [1] = {
-        ["x"] = 518.32894630157,
-        ["y"] = -416.63829089113,
+        ["x"] = 521.01614022816,
+        ["y"] = -420.22110309852,
+        ["sublevel"] = 1,
+      },
+    },
+  },
+  [24] = {
+    ["name"] = "Advisor Vandros",
+    ["id"] = 98208,
+    ["count"] = 0,
+    ["health"] = 178940017,
+    ["scale"] = 1,
+    ["displayId"] = 65794,
+    ["creatureType"] = "Humanoid",
+    ["level"] = 82,
+    ["isBoss"] = true,
+    ["encounterID"] = 1516,
+    ["clones"] = {
+      [1] = {
+        ["x"] = 406.36648867598,
+        ["y"] = -211.07514893608,
         ["sublevel"] = 1,
       },
     },
