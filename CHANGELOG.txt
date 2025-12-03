@@ -1,2 +1,2 @@
-## 1.2.1 (2025-10-11)
-- Legion Remix Dungeon Data Update
+## 1.2.2 (2025-12-03)
+- 11.2.7 update
