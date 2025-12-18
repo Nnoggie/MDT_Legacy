@@ -8,7 +8,6 @@
 	<Script file='NeltharionsLair.lua'/>
 	<Script file='ReturntoKarazhanLower.lua'/>
 	<Script file='ReturntoKarazhanUpper.lua'/>
-	<Script file='SeatoftheTriumvirate.lua'/>
 	<Script file='TheArcway.lua'/>
 	<Script file='VaultoftheWardens.lua'/>
 </Ui>
