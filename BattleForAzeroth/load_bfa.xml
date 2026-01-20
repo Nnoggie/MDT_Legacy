@@ -8,4 +8,7 @@
 	<Script file='TolDagor.lua'/>
 	<Script file='WaycrestManor.lua'/>
 	<Script file='MechagonIsland.lua'/>
+	<Script file='MechagonWorkshop.lua'/>
+	<Script file='SiegeofBoralus.lua'/>
+	<Script file='TheMotherlode.lua'/>
 </Ui>

@@ -1,4 +1,4 @@
-## Interface: 110207, 50502
+## Interface: 120001, 120000, 50502
 ## Title: MDT Legacy
 ## Author: Nnoggie
 ## Version: 1.2.2
@@ -26,3 +26,4 @@ Legion\load_legion.xml [AllowLoadGameType mainline]
 BattleForAzeroth\load_bfa.xml [AllowLoadGameType mainline]
 Shadowlands\load_shadowlands.xml [AllowLoadGameType mainline]
 Dragonflight\load_dragonflight.xml [AllowLoadGameType mainline]
+TheWarWithin\load_thewarwithin.xml [AllowLoadGameType mainline]

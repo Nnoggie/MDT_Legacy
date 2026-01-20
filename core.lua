@@ -9,6 +9,12 @@ end
 function addon:OnInitialize()
   local L = MDT.L
   if addon:IsRetail() then
+    tinsert(MDT.seasonList, L["The War Within Season 3"])
+    tinsert(MDT.dungeonSelectionToIndex, { 123, 30, 37, 38, 113, 111, 115, 119 })
+    tinsert(MDT.seasonList, L["The War Within Season 2"])
+    tinsert(MDT.dungeonSelectionToIndex, { 115, 116, 117, 118, 119, 120, 121, 122 })
+    tinsert(MDT.seasonList, L["The War Within Season 1"])
+    tinsert(MDT.dungeonSelectionToIndex, { 31, 35, 19, 110, 111, 112, 113, 114 })
     tinsert(MDT.seasonList, L["Dragonflight Season 4"])
     tinsert(MDT.dungeonSelectionToIndex, { 45, 44, 48, 49, 43, 50, 42, 51 })
     tinsert(MDT.seasonList, L["Dragonflight Season 3"])
