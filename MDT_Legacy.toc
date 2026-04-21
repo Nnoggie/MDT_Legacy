@@ -2,7 +2,7 @@
 ## Interface: 120005, 120001, 50503
 ## Title: MDT Legacy
 ## Author: Nnoggie
-## Version: 2.0.1
+## Version: 2.0.2
 ## Notes: MDT Plugin containing dungeons from previous expansions
 ## Notes-deDE: MDT-Plugin mit Dungeons aus vorherigen Erweiterungen
 ## Notes-esES: Complemento de MDT que contiene mazmorras de expansiones anteriores
