@@ -1,4 +1,4 @@
-# WOW_INTERFACE_TARGETS: mainline-test, mainline, mists
+# WOW_INTERFACE_TARGETS: mainline-beta, mainline-test, mainline, mists
 ## Interface: 120005, 50503
 ## Title: MDT Legacy
 ## Author: Nnoggie
