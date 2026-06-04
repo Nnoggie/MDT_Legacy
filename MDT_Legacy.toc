@@ -2,7 +2,7 @@
 # WOW_INTERFACE_TARGETS: mainline-beta, mainline-test, mainline, mists
 ## Title: MDT Legacy
 ## Author: Nnoggie
-## Version: 2.0.2
+## Version: 2.0.3
 ## Notes: MDT Plugin containing dungeons from previous expansions
 ## Notes-deDE: MDT-Plugin mit Dungeons aus vorherigen Erweiterungen
 ## Notes-esES: Complemento de MDT que contiene mazmorras de expansiones anteriores

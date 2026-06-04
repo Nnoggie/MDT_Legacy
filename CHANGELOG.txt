@@ -1,2 +1,2 @@
-## 2.0.2 (2026-04-21)
+## 2.0.3 (2026-06-05)
 - Update WoW interface compatibility versions
