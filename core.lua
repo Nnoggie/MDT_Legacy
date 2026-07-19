@@ -31,7 +31,7 @@ function addon:OnInitialize()
     tinsert(MDT.dungeonSelectionToIndex, { 15, 16, 17, 120, 18, 19, 20, 23, 22, 102, 25, 122 })
     tinsert(MDT.seasonList, L["Legion"])
     tinsert(MDT.dungeonSelectionToIndex, { 12, 103, 2, 3, 4, 5, 6, 9, 7, 8, 11, 10, 13 })
-    tinsert(MDT.seasonList, L["MoP Challenge Mode"])
+    tinsert(MDT.seasonList, L["Mists of Pandaria"])
     tinsert(MDT.dungeonSelectionToIndex, { 130, 131, 132, 133, 134, 135, 136, 137, 138 })
   end
 end
