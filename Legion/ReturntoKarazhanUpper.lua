@@ -1,5 +1,5 @@
 local addonName = ...
-local MDT = MDT
+local MDT = select(2, ...).Data
 local L = MDT.L
 local dungeonIndex = 10
 MDT.dungeonList[dungeonIndex] = L["Return to Karazhan Upper"]
