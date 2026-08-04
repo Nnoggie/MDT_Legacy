@@ -1,4 +1,4 @@
-local MDT = MDT
+local MDT = select(2, ...).Data
 local L = MDT.L
 local dungeonIndex = 16
 MDT.dungeonList[dungeonIndex] = L["Freehold"]

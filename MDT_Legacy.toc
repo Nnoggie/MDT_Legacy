@@ -1,6 +1,7 @@
-## Interface: 120100, 120007, 120001, 50504
-# WOW_INTERFACE_TARGETS: mainline-beta, mainline-test, mainline, mists
-## Title: MDT Legacy
+## Interface: 120100
+# WOW_INTERFACE_TARGETS: mainline-beta, mainline-test, mainline
+## Title: Mythic Dungeon Tools (MDT) - Legacy
+## Group: MythicDungeonTools
 ## Author: Nnoggie
 ## Version: 2.0.3
 ## Notes: MDT Plugin containing dungeons from previous expansions
@@ -15,6 +16,8 @@
 ## Notes-zhCN: 包含往期资料片地下城的MDT插件
 ## Notes-zhTW: 包含過往資料片地城的 MDT 外掛
 ## Dependencies: MythicDungeonTools
+## LoadOnDemand: 1
+## LoadWith: MythicDungeonTools_UI
 ## X-Curse-Project-ID: 1115573
 ## X-Wago-ID: mKOv1k6x
 ## IconTexture: Interface\AddOns\MDT_Legacy\MDTFull
@@ -28,3 +31,5 @@ BattleForAzeroth\load_bfa.xml [AllowLoadGameType mainline]
 Shadowlands\load_shadowlands.xml [AllowLoadGameType mainline]
 Dragonflight\load_dragonflight.xml [AllowLoadGameType mainline]
 TheWarWithin\load_thewarwithin.xml [AllowLoadGameType mainline]
+MistsOfPandaria\load_mop.xml [AllowLoadGameType mainline]
+register.lua
