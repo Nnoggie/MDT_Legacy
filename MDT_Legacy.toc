@@ -3,7 +3,7 @@
 ## Title: Mythic Dungeon Tools (MDT) - Legacy
 ## Group: MythicDungeonTools
 ## Author: Nnoggie
-## Version: 2.0.3
+## Version: 2.1.0-alpha1
 ## Notes: MDT Plugin containing dungeons from previous expansions
 ## Notes-deDE: MDT-Plugin mit Dungeons aus vorherigen Erweiterungen
 ## Notes-esES: Complemento de MDT que contiene mazmorras de expansiones anteriores

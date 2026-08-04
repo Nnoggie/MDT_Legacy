@@ -1,2 +1,3 @@
-## 2.0.3 (2026-06-05)
-- Update WoW interface compatibility versions
+## 2.1.0-alpha1 (2026-08-04)
+- 12.1 Update including MDT UI split compatibility
+- Include MoP Challenge Mode dungeons as archival content
