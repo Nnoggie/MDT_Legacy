@@ -22,7 +22,6 @@
 ## X-Wago-ID: mKOv1k6x
 ## IconTexture: Interface\AddOns\MDT_Legacy\MDTFull
 
-locale.lua
 versionCheck.lua
 buildCheck.lua
 core.lua
@@ -32,4 +31,15 @@ Shadowlands\load_shadowlands.xml [AllowLoadGameType mainline]
 Dragonflight\load_dragonflight.xml [AllowLoadGameType mainline]
 TheWarWithin\load_thewarwithin.xml [AllowLoadGameType mainline]
 MistsOfPandaria\load_mop.xml [AllowLoadGameType mainline]
+Locales\enUS.lua
+Locales\deDE.lua
+Locales\frFR.lua
+Locales\koKR.lua
+Locales\zhCN.lua
+Locales\zhTW.lua
+Locales\esES.lua
+Locales\esMX.lua
+Locales\ruRU.lua
+Locales\ptBR.lua
+Locales\itIT.lua
 register.lua
