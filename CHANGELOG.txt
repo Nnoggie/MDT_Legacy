@@ -1,3 +1,2 @@
-## 2.1.0-alpha2 (2026-08-11)
-- Restore legacy dungeon localization after the MDT UI split
-- Fix the Tol Dagor prison bars door label
+## 2.1.1 (2026-08-11)
+- 12.1 Support + MDT UI split
