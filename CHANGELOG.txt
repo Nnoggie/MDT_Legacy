@@ -1,2 +1,2 @@
-## 2.1.1 (2026-08-11)
-- 12.1 Support + MDT UI split
+## 2.1.2 (2026-10-12)
+- Updated interface version for WoW 12.1.5
